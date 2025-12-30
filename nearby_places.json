@@ -1,0 +1,2960 @@
+[
+  {
+    "place_id": "ChIJGVM8PYkRrjsRP2BsV-6ipHQ",
+    "name": "Trinity Whitefield Bengaluru",
+    "business_status": "OPERATIONAL",
+    "vicinity": "134 - 136, Road Number 1, EPIP Zone, Whitefield, Bengaluru",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "user_ratings_total": 5051,
+    "location": {
+      "lat": 12.9772065,
+      "lng": 77.7144947
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9787366302915,
+        "lng": 77.7157445802915
+      },
+      "southwest": {
+        "lat": 12.9760386697085,
+        "lng": 77.71304661970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU5Uj9sswsbDP1YGbgta41NywRWYOsT67oe889FFND3-v9LkUaZYEV-l1MHThw79jkxnnvTLvRmllOJcEV4uv4-b9rmLkxNWtCzzAsqj4juhyqSpgDCOdkSuS3jz4Zm7gVYuzqQU7vOMLFhpY8vdjZsXP12PJG2P8ZO2t2bBBBf8UBjW6xEg7WH41UXswwpHsI0nliCKMtmIN7pIi9oruE8AFuiNs5gcqQUEjvcETe_mTGja67mecXHgdSDMp1VEG9weg6SI6JoJEPBviio6cfsGpMkZ6WxpVfTmZNnw-gf6FFOOjL51hKzufnPAS5Lco8I8UT83phM",
+        "height": 320,
+        "width": 480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107622690191979810979\">Trinity Whitefield Bengaluru</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPG7+VQ Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPG7+VQ"
+    },
+    "international_phone_number": "+91 80 6921 7800",
+    "reference": "ChIJGVM8PYkRrjsRP2BsV-6ipHQ",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJ6TZT2YgRrjsRS10z9zU1zLk",
+    "name": "Radha Hometel Bengaluru, A Sarovar Hotel",
+    "business_status": "OPERATIONAL",
+    "vicinity": "opposite SAP Labs, 136/137, Road Number 2, EPIP Industrial Estate, Brookefield, Whitefield, Bengaluru",
+    "types": [
+      "lodging",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.8,
+    "user_ratings_total": 3015,
+    "location": {
+      "lat": 12.9775039,
+      "lng": 77.71309529999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9788194302915,
+        "lng": 77.7144369302915
+      },
+      "southwest": {
+        "lat": 12.9761214697085,
+        "lng": 77.71173896970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+    "permanently_closed": false,
+    "opening_hours": null,
+    "photos": [
+      {
+        "photo_reference": "AWn5SU6ANFZSHpzs_GSWwcnhk3m_4_343RNcTsFCJ1cGt4VINgLk7TkuP7OMyuKs4ILT5MVw8_GGaIFsS0VH0xPHNftyOkLmeFTYaXc8xOE65eKyWZFEf-CYdjeQmtLOXhXoxYhaLjZKalezTo2QfeCxYUXY70ePSMyCxjCpq42zljVfU_lgeAIjkL__TXk5wh2kiDfMzCd-80gWPx8uisQMDFGW-pFg457dn0NjSAf43d-yMVcNf1bAWBh4ErwYEEybMc50seQGmL3N-2tiflfSIpjzn0iqpSNL2y353Xdq0U39NchAB2meUhmi-eW9gcL0iYkoyHGW9KU",
+        "height": 3840,
+        "width": 5760,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111497234727765305879\">Radha Hometel Bengaluru, A Sarovar Hotel</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPH7+26 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPH7+26"
+    },
+    "international_phone_number": "+91 80662 26969",
+    "reference": "ChIJ6TZT2YgRrjsRS10z9zU1zLk",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJ0R2ujZ8RrjsRUU94DFmk_0k",
+    "name": "Decathlon Sports - Whitefield",
+    "business_status": "OPERATIONAL",
+    "vicinity": "Ground Floor, near Phoenix Market City, ITPL Main Road, KEB Colony, Industrial Area, Bengaluru",
+    "types": [
+      "shoe_store",
+      "bicycle_store",
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "user_ratings_total": 38560,
+    "location": {
+      "lat": 12.9947894,
+      "lng": 77.701081
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9959851302915,
+        "lng": 77.7024935302915
+      },
+      "southwest": {
+        "lat": 12.9932871697085,
+        "lng": 77.69979556970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU5PxrIEsNFJtmVaU-9RNDXgngqqp0ofp3Ww32JVzAj9uS78o24pj-ef1kJMje7IAtLWdkJAtgdFUIHTtE1ZNz9OYAGLGGYdSwpflvVc7Y_gz6Bzh5bi0YNdvx3-SjaFVFfhoGVyF11HG00vd_H1-I0NFF-hZEmurD_ELt9ZE6jI9mdvIGGiFYikpqRMO4tWJtikB9ukcYUUt5qHPt2CCl_AQ7dsK6Nf2V6lXJ29VtBocerpRC2TSAOGn4K0zV0SRxcB_CNccnOT5lmclDr4fkI9QhKiHrdsTRodvdj8A9wJ_s-O83VLDpW89woF475ZNXtDNWddoiM",
+        "height": 1020,
+        "width": 1360,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104756633064151136714\">Decathlon Sports - Whitefield</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPV2+WC Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPV2+WC"
+    },
+    "international_phone_number": "+91 80950 00898",
+    "reference": "ChIJ0R2ujZ8RrjsRUU94DFmk_0k",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJEX5NY_4NrjsRl1TcfsANrcI",
+    "name": "Shakthi Gas Distributor - HP Gas Agency",
+    "business_status": "OPERATIONAL",
+    "vicinity": "2, 13/4, Munikadirappa layout, Metro Station, near Hoodi, Hoodi, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "user_ratings_total": 748,
+    "location": {
+      "lat": 12.9881759,
+      "lng": 77.71079209999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9895238802915,
+        "lng": 77.7121745302915
+      },
+      "southwest": {
+        "lat": 12.9868259197085,
+        "lng": 77.70947656970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU5GVGwJrOD4P7sAEw5jjwG7XQacQrRr83WNzFRPLg8G9ZzRJKo8yN5HUygMOae4I3gcal0qEiTuFgJhe90MHFh4BP-vqUBMJ7ugWpB47hWWI_TMYFUTngQVCyqA3atFwI6zm-MjCIPpadnfe9oji-B1mVfCmvGzgmbV6tqx7z3UdKXSVwZbtQYq9m2Tmm2oSp-R-3pW4ibM-y0Ug6GA25MeOJvN5VdkIz_C3cP9_w-Ws1Jfa_rzSCVGlEsf0TC0HhtKgZwV-oz2PNRkRtcjOeosCJL7pMPG3DnEi-gMI4Zy1YeIO1q5I-u1dX8uk9os8qbQBTvDebM",
+        "height": 960,
+        "width": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102445207973423873330\">Shakthi Gas Distributor - HP Gas Agency</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPQ6+78 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPQ6+78"
+    },
+    "international_phone_number": "+91 83107 45974",
+    "reference": "ChIJEX5NY_4NrjsRl1TcfsANrcI",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJow4f-vcTrjsRAVQ4CM85zmE",
+    "name": "Adecco India",
+    "business_status": "OPERATIONAL",
+    "vicinity": "No 73/1, 13th Floor, Summit B, Whitefield Main Road, Brigade Metropolis, Garudachar Palya, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 2.8,
+    "user_ratings_total": 539,
+    "location": {
+      "lat": 12.9919712,
+      "lng": 77.703254
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9934797802915,
+        "lng": 77.70444548029151
+      },
+      "southwest": {
+        "lat": 12.9907818197085,
+        "lng": 77.7017475197085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU4fF1ClQcyJ4CvGEkVVYcU7D0pH4U5ZFx6tzKaVrUk4UlCzC6KHuDxvNatXGalCbxe9FBEHivrjea_7efTR79zNKXtoOAGGzyzsfcwMQcYiQ-Dh93Gr-LyU9Gd9TYAYPNbYQ3LJ0wxDsIKj9sNUMT8qQib18YTGp8h8V-UVMgkwzpdAE60O8y8WwIag11DDF2X9c4grXT9eR0T0E2qGpwQ2I7ylF9uey_FjcRuc0gwBRnaqItu7FLMmqA_n8a8DPEivbxCDZbxPMCDFFjSZ8NOTx2HI0ipgxjiKMqABAAuCX0L3xnhVgmD_3s1ZVcASpsgIYMrj",
+        "height": 657,
+        "width": 1773,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116435350053651287096\">Adecco India</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPR3+Q8 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPR3+Q8"
+    },
+    "international_phone_number": "+91 80 6840 7000",
+    "reference": "ChIJow4f-vcTrjsRAVQ4CM85zmE",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJq6qqqnMRrjsRqfqFsNuvJjc",
+    "name": "Gopalan National School",
+    "business_status": "OPERATIONAL",
+    "vicinity": "No 13, Brookefields Road Garudachar Palya, Doddenakundi, Phase 2, Mahadevapura, Bengaluru",
+    "types": [
+      "secondary_school",
+      "primary_school",
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "user_ratings_total": 146,
+    "location": {
+      "lat": 12.9863492,
+      "lng": 77.70740099999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9876130302915,
+        "lng": 77.7089344802915
+      },
+      "southwest": {
+        "lat": 12.9849150697085,
+        "lng": 77.70623651970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU5Ngd2-ec0UUIrzhFuCphuguHt-If51a6LNBypty_9tnr_P8NuJ_521ID3JLlfCrysBr5YrknY0T6h24tRRPFx_Ue5hmCssj4eaK-aShUYbhnaaVWtsSn93xxBchoArsMnbO19KNJXWRxS0s5JMfnJRMuQec7S0dX_AXe5Za8Nrf62dqXHZpvaTAU93NBASnsJjcQXQ5czRYOQlm6BXJNos9_5ERZf2AdFluJ9Lg7GjvXI4i0sCRxiEmcg3npueCjdDtLdvJOnziHwUvwFDTbyqpn3Xwq7xmeBBQmLZC5gx_8NL1C6WnqPK0DPrB4Fwik4qNGXxKEw",
+        "height": 600,
+        "width": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115559661376683096770\">Gopalan National School</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPP4+GX Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPP4+GX"
+    },
+    "international_phone_number": "+91 80 4115 7829",
+    "reference": "ChIJq6qqqnMRrjsRqfqFsNuvJjc",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJa96mD58RrjsRdDrU4Q1MkbU",
+    "name": "Domino's Pizza | Mahadevapura, Bangluruu",
+    "business_status": "OPERATIONAL",
+    "vicinity": "Shop No 31, The Arcade, 73/1, Whitefield Main Road, Brigade Metropolis, Garudachar Palya, Mahadevapura, Bengaluru",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.4,
+    "user_ratings_total": 972,
+    "location": {
+      "lat": 12.9942273,
+      "lng": 77.6993938
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9955969802915,
+        "lng": 77.7007509802915
+      },
+      "southwest": {
+        "lat": 12.9928990197085,
+        "lng": 77.69805301970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU6FENJKHeGHb3r8CY9vzf-Xh6rQKI17_mkp3c-2oj0PN6wW-pu9i6jiVCOOcb9d9nnq-jTSfVw4zp2TtLd1sqT8w3QBCD94NlkGzwj7AUdG9azG1NZaivMf_RYzc_an3pW7RWRhK43QEJouzu-aO4rsNC7y6U0F_JFNmGkUH0wqkPljgqVTvIxMCuKkMjFPNpwxmuA3eDZGnG5K0b4qWqoP2f5e72f7m1vVP-hFZFICA7INVCYOS5jIotoPdSdIs8M30HLzQPn3Jm1r1XdYE-B4ZR9GUIjAwui_X_wgy8y37dDoP_gPWcJjqX6xEW4BhC4r7wR24kvXTzNgfj1JSQT1zmv6BNmdYGHEfpUItwNsP0x6OjIptS8kqDoBFlTzD_bZHiEGgyc7OYpmZcfmvqbmmQSdOab8fzo2Xyqbndsipt-gPgjUUOs3RCLQ70fApvgsZ5SAKxwBwnKG9xJ7OMdbDxSDpWrXXPtBqhm2wWbg3nJ3rO2k7RuC5kWd2FEFF_KFnUj_JsOwEt-hfD4jDYL3DX2k5hVCRThNcOuxFeyI_HVgQDfGBWkuf9Hc4drHjIFYHOu_qe292pqUhQCM6-6xJvOC3E2sRD45WWctLHXPx7Gv5EN1PGu5J1-HVR4y1GuLYvVv",
+        "height": 4096,
+        "width": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105793576738847490180\">Shubbu</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XMVX+MQ Bengaluru, Karnataka, India",
+      "global_code": "7J4VXMVX+MQ"
+    },
+    "international_phone_number": "+91 1800 208 1234",
+    "reference": "ChIJa96mD58RrjsRdDrU4Q1MkbU",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJEX5NY_4NrjsRtvWybKoXogY",
+    "name": "SAP Labs India - Whitefield",
+    "business_status": "OPERATIONAL",
+    "vicinity": "138, EPIP Zone Whitefield Road, KIADB Export Promotion Industrial Area, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "user_ratings_total": 3594,
+    "location": {
+      "lat": 12.9778653,
+      "lng": 77.7146396
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9834902,
+        "lng": 77.7186087
+      },
+      "southwest": {
+        "lat": 12.9758602,
+        "lng": 77.7132099
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU6BH7OkvdoFo_u5ECE_2bDPHAGNdPJ3vc0pYR6sUg0vKyfmn35_Tbf6ZYFds_2RI7_4lFOcRwedm_D12Wlo6EeSEnfriVd3Iy5PpJK9T-zK5Ylm01EQxG1b1iofRsrPUmJy7DdfvCVpfgFypz3LCZipb1WrIcjeZRFLT0vZVh7K0GJiTRTbY-pBhU7hik5GXsjkyXFqOgXujl__wCv2NB_9BjMPAcn654JOEYOzrm-_xVv2IhuWlcddTRIuFRggPcHMFgAOJrtB-K30SoxhJd4CzWlTnKfFmQaVVuu0wcRbfIqvoGzkA3tn16RbaPlWHDr_euY5PNw",
+        "height": 963,
+        "width": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108023426363513527658\">SAP Labs India - Whitefield</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPH7+4V Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPH7+4V"
+    },
+    "international_phone_number": null,
+    "reference": "ChIJEX5NY_4NrjsRtvWybKoXogY",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJgyiCP4ARrjsRUXqTuDMs-aA",
+    "name": "Alpine Eco Apartments",
+    "business_status": "OPERATIONAL",
+    "vicinity": "Alpine Eco Road, Karthik Nagar, Chinnapanahalli, Doddanekkundi, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "user_ratings_total": 2791,
+    "location": {
+      "lat": 12.9740211,
+      "lng": 77.7008695
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9746989,
+        "lng": 77.70201918029149
+      },
+      "southwest": {
+        "lat": 12.9719877,
+        "lng": 77.69932121970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU6U4xEjvNFzaPduV-mBeRpzu1KgEQPvvM1tSpAJZP66svAWpI45jJphqdu4aV-U2u9J95OoGUiAy7AGbBlDgrBPZDhMEUeBo7zdOG1IyjeHYUCTjN6Uvtc5xyX-nTk7BNrU-wgQqQfZJrFhOK3LLoDFYdqhWUie2DHJuhQ_Ki5NpKmS4Zex3XwlIWuXBHml-udl-xNi9S0QwJnv-7X_Eyg8sD_GqigiU2o1IYilNoVJZea2F-FX-ewLbQ_SPRUjwKJ13tAdyG5CuZXstDMIEHxqHooiEJOiGKUUxabPWXYi8d3IU-gAtgKamdhw83xW-poK3vQubEHGMw8YehuAh7eiYseTSsVFmV4kywvNpRYl5VkUZvSB1OAyLIn-R1GIukzCP6tk01sIzAftmEQEj6q_-VltPtNa-onMsLcr6_TPlWvRzrb_2K5DCgTlNwd7AdY5a6waiheMBjFfyiI-wxxhKjQji3oRZLrCNLx7EQC4LRr0uLUGe42ViOf6pnd0401tWObjyTgCgzZvf-7X-WsFjRFnqUu1fgWSVWlJis3h12HBHgG7OFXwecXs_qjRSf5XmpQR9qYq7gBYZgD3t9hfwmxhc9o19EhN4E7pyXfX9tl977e_VJmFnaxXSY_ZeQNPew",
+        "height": 3000,
+        "width": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100978310886672799617\">Vaibhav Dudhe</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPF2+J8 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPF2+J8"
+    },
+    "international_phone_number": null,
+    "reference": "ChIJgyiCP4ARrjsRUXqTuDMs-aA",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJTRL5inkRrjsRSzdw8QDAmYo",
+    "name": "Dell EMC Corporation",
+    "business_status": "OPERATIONAL",
+    "vicinity": "Bagmane World Technology Center, KR Puram Marathahalli North Ring Road Hobli, Doddanekundi, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "user_ratings_total": 3292,
+    "location": {
+      "lat": 12.9819111,
+      "lng": 77.6938373
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9836888802915,
+        "lng": 77.69474383029151
+      },
+      "southwest": {
+        "lat": 12.9809909197085,
+        "lng": 77.69204586970851
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU4Lvdf8CQCf3G1AXTj4LvckYBtgD2OCDP0mN3pY7FL6wxF1MFl0pfRQR4zmN8GModMDFEiYm-FPf1IwNK7datn8lPaQqzDinj3YC03P1h7YcnLmcpmcGty2bd5Bqrd8JCpuzDwalp2JnTvwby7ttYPFbYdfYVGZJxhjR6jx7xW6EhVICJxWnYy3Xe6dVnCSCJa_7in8o0UEfvCoSyGHX0P6QOTKUHvvkmJTF67Ty7GTQvjVvtB2H_TaJTjZfQhAqECjpKwOPQGrR-Y2ZF9kso2wjYCwSP-WXGHTohAkssNnJTvHckMk7VE0hFWsJDMFnjlD4vHpYNJKJb_gX-UF7d6S_vU_J2idAJ1elrgZ14Qxl6MESy-h8XkFSw_Vb6zcYtpJNcUN3yAP0i81_sva16Q__0DqQ19AoVJBytxZXUJX3F1s0F093qGBedZSFillhtjQ_G5OL7LLQVPM0d_HQytfaUsshqoxBYeLbmLzXizfCVA0I-ek25qdl875220G_8thr7uZBC-Jz9HunUnkLJBrT9qa2aGRWGIzrqV5WVo5kMaYEnbbrYYpFMdiIpCzm760e6gmOBr80wWZP4NoaOZD1tpS7OrFMVCNvD29-gJWE17f9ebTNW8nHbmelWdcvBG-4Q",
+        "height": 4032,
+        "width": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100281902371818142609\">Ravi</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XMJV+QG Bengaluru, Karnataka, India",
+      "global_code": "7J4VXMJV+QG"
+    },
+    "international_phone_number": "+91 80673 75000",
+    "reference": "ChIJTRL5inkRrjsRSzdw8QDAmYo",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJSZZMNdEVrjsRBFFqeJue9-E",
+    "name": "Spectrum Physio Centre - Whitefield",
+    "business_status": "OPERATIONAL",
+    "vicinity": "29, ITPL Main Road, Doddanakundi Industrial Area 2, Devasandra Industrial Estate, Mahadevapura, Bengaluru",
+    "types": [
+      "physiotherapist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "user_ratings_total": 214,
+    "location": {
+      "lat": 12.9871603,
+      "lng": 77.70883839999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9884382802915,
+        "lng": 77.7102416802915
+      },
+      "southwest": {
+        "lat": 12.9857403197085,
+        "lng": 77.70754371970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU4xrYQ3_dU5S-ORFpr2Ug5x8_Wxbl8dZKDtub8uwTN31ac2UH3tX4S4Q4HZ9vx9YeuEZOZakTD4Xny7sC2MZtm3Tt_Zq0sUio2BgNLDSpOe5o0nSDcKGph1_QBM0Skdg048F_PjhfmLGMebMJe5Sis6i3qWAqxanFeWDqRT4EgSn9sl6P87DSoZMVFPkvXh2j3XDnTW3Ix7ugMP08l7J2SaK6Wa9nfnPE_UBeklZVR3Dw5xIrHTsT78puhZBIdCcwfsg-NKJTCnGByyiCm4BaREvtbaWlGR9RvZfNc00iT-Kboykeb9CYkHV8skVJzqjdk1Qtd9oTQ",
+        "height": 2408,
+        "width": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110311388088017778460\">Spectrum Physio Centre - Whitefield</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPP5+VG Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPP5+VG"
+    },
+    "international_phone_number": "+91 80887 73399",
+    "reference": "ChIJSZZMNdEVrjsRBFFqeJue9-E",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJ____L-URrjsRPyHQA6CcBV4",
+    "name": "KLAY Whitefield - Pre Schools and Daycare",
+    "business_status": "OPERATIONAL",
+    "vicinity": "Lower Level, nearby Shell Petrol Pump, Plot No 18B, Kundalahalli Main Road, Ashraya Layout, Garudachar Palya, Whitefield, Bengaluru",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.8,
+    "user_ratings_total": 392,
+    "location": {
+      "lat": 12.9829638,
+      "lng": 77.70812459999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9843220802915,
+        "lng": 77.7095367802915
+      },
+      "southwest": {
+        "lat": 12.9816241197085,
+        "lng": 77.70683881970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU6v1FTm6UbekprgFsRmAaizMXyA4pB5lT8aEHW2nEtDhrcnmISaTttkl7FT6jN14AjjPtxsW4JVpzOcbYbcP2tAqR0bzfNxbT2g6BWNGVvbbEUbiH70vUQbxlUvKqz5JCLYGbzG3E1hPnIdDVD4M09K40rwQoXl-X0rNLzuvLSXqzesSpyUOpYY1XPGoBO1r0siBrSOPT_t-B8iGtm-bxdSdu_-zxCQHJCOG5pbWjgMcxsvJsOvKXX8Q7i0YmpqxbX7mBpfBFQrDGLLY9yvyZr_3LzuXTUfgehmCw1-UDqk6PLye4JuQBp2BsnZNOQmJYVcFYEjnDA",
+        "height": 6336,
+        "width": 9504,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102978145961981278335\">KLAY Whitefield - Pre Schools and Daycare</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPM5+56 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPM5+56"
+    },
+    "international_phone_number": "+91 76767 08888",
+    "reference": "ChIJ____L-URrjsRPyHQA6CcBV4",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJjRaFFIQRrjsRgVOMzwSbQIY",
+    "name": "Satchitanand precision tooling centre",
+    "business_status": "OPERATIONAL",
+    "vicinity": "near Graphite India, 35A, ITPL main Road, Dodanakundi Industrial Area, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "user_ratings_total": 13,
+    "location": {
+      "lat": 12.9797451,
+      "lng": 77.70633839999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9810983302915,
+        "lng": 77.70766958029151
+      },
+      "southwest": {
+        "lat": 12.9784003697085,
+        "lng": 77.7049716197085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU41v-uRlxyjvl1AgTmxuIfE9NGtYyPO3mGNrwX4xTOHsZTHhjE78JldoWZsXRYWqFH_rlRF7jZCrnwmWYijZ50gPxQduQSRxawIiSap-eumaIC8H6lc5swQ0D1RC7GBilpjwygLIG8kr9AYpDO8x6ilOri2nqJAWgQ8cXWMl-93KJPiOIYpm1UFRv0RPaS8tuDQvXPV6i8KozCxoVUdqI6WwbMOLDLI_zjtPR5kbOEbuGe_NjbS1OCJ77hSwRjghGHjsq24I7aRNv7EstgSsdW7uXP_8_hwZ5N4F3j28UybY2Y-V7yzXV-rU07O2605C3TD96oija_HvwDv1Iqj5A3og5GIEf-u7FdoXK8U3WBF1wMwy0r9knvKrpZ09hcOIopJuuLcgz9EXE0tlAbwL-sM4c-AOfinEMSKESqp3Mz4rW8FRbpZqLtob2R24YhOU87VKtBjpsBEzHWBdGfEi025S3I9bFGI19IFHhRREXH9rlWU9dYKryhQqNpUf7UeeXesY3tcg_BGuISTC072pbdshoxo9JgxG7EeexlSlr2OuaIc4OXtD6iq5INUt6GacH1O6QBTKzw_NOQigvxrSBXaoFT3X6j8SV286x8516tFkTgIeDzq-ALB_d7D4AatnX0xhg",
+        "height": 2076,
+        "width": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117738745686794453884\">Arvind Kushwaha</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPH4+VG Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPH4+VG"
+    },
+    "international_phone_number": "+91 99644 66663",
+    "reference": "ChIJjRaFFIQRrjsRgVOMzwSbQIY",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJ31mUaZkRrjsRxQ8lzpymhC0",
+    "name": "Solitaire",
+    "business_status": "OPERATIONAL",
+    "vicinity": "XPR4+4P4, Doddanekundi, Mahadevapura, No 40-A, KEB Colony, Industrial Area, Hoodi, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "user_ratings_total": 64,
+    "location": {
+      "lat": 12.9902947,
+      "lng": 77.7067222
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9916050302915,
+        "lng": 77.7080752302915
+      },
+      "southwest": {
+        "lat": 12.9889070697085,
+        "lng": 77.70537726970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": null,
+    "photos": [
+      {
+        "photo_reference": "AWn5SU7Ggrf4Yv6siWXSXAY6cXZ0dRzemCb8EzPKEmkzJ8iVi92owobGzcZ3WURCmqWD-mcmCMAiLVzN_pDlqHTMsaQLbwEap1C5_hmLrtJUy3ssAY-FYWfSip4JDYK5U4NTB6lZhSZpRgGv3hDHROM5lmH1JrWlCoIJiFuw91Kooy6GwnsgQGnU7tOv8aqHM66AXzbnPz8OPvuPuwyH8a8_yA90dFS7773n4Yv3h0PitDvMDreMhkQ3YkW-m97jVyGIM63YRMMmvfPzgNTdPrv1MfqZ4H9moP92cPGdHAJMN2iVhUh62soBNj_Hjsq_RvvjmqFnbIJHn2WJL6l-zGJclfsjaNs9VXL-5ImheaeTKFQMgGO5BvDT0TxKfFKMmkKFDUDDotcImmLFALyAgLmqQ8-RLDQXGpAYbE49MXXiPTnvbblFIEOOlikLnL3l3of0vAAXmf3HqZ993DwHoakS3ITGhhKat1OdFMKc3uFVVS0T2V-gMs5XVWm5iubBQ6oZcgSnQoZm2AWCSKpIG-MKODNlttv3DE9jFDX2QDm1JpxQqAF6CXmF4m1X9rMywOJX0a-xd2TrnV4wje4uHY0Y2UhBw-uCqsOjqF5YNLJJXWVBDCoZwVVOjiKaPS7hCjrkMMmBsw",
+        "height": 4208,
+        "width": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109259087370127541967\">seenu chandan</a>"
+        ]
+      }
+    ],
+    "plus_code": null,
+    "international_phone_number": null,
+    "reference": "ChIJ31mUaZkRrjsRxQ8lzpymhC0",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJw7j5KgcOrjsRbeG-91UYEJU",
+    "name": "Whitefield Area Commerce and Industries association (WACIA)",
+    "business_status": "OPERATIONAL",
+    "vicinity": "40J, Opp NGEF Estate, Wacia Road, Doddanekkundi Industrial Area, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "user_ratings_total": 61,
+    "location": {
+      "lat": 12.9905199,
+      "lng": 77.7067735
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9918883302915,
+        "lng": 77.7080177302915
+      },
+      "southwest": {
+        "lat": 12.9891903697085,
+        "lng": 77.7053197697085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU4ITR6yBcVX3TcI-3h1lrytVSZN_Eh9WaNONHEMbVzMgKYBii67YvDHhVfrw1aVt7p2rKWG7c0VRPlhhlmmW7Kw9-MTcg5Gj12CjJrKt1Z31fgLDEek1B97rrov4YN-cJjM2M5rNWMJGZ42_hwVrF7P7dIcB1-8RTVQ39OoDVU6YaVl6DC0HpMyafQtByz7sDaGqy91PUDISHVycVlydFYhgnyl_udP43bUFi7qywxzOASIdJzD_izKm-7eIQWVmipmCYZks248zA5ZWySeBtruvrbnv-4HPNjwGzOUPriARDaDPN23xj_2mKWV3-MTR1DTLicSu9Q51OO10TVqH4CcrwCHhoFhyYGPEROyoBVnyRJww1RrhbE6E47OD8y99RSgPD7jE1LQc-twC5ket9pHvrnbvei6xbRD8t2pTHgMswnQmWdImJZMnihUoy8iDkmbCPl3rXiRp7hj2X6y2Xn62-FUPLjxYr6qhwZBpssyM-1cZoqKS0xpLpNQeXlU7QELALytNFGz7CM2bEat0dtvGGCSBO_HPCDj01hA7j8YvNwOyiWxOooLgVsQ0YHinVGQaqMooKUZFjr6CwrZx7QNluPDqNdiwtCaFWGOseTAEvxlkVVbr68dSzW73VlIvY8QuFYj",
+        "height": 3120,
+        "width": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109513129514163967960\">Prem Chowdhury</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPR4+6P Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPR4+6P"
+    },
+    "international_phone_number": "+91 80 2852 4244",
+    "reference": "ChIJw7j5KgcOrjsRbeG-91UYEJU",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJVVVVlZkRrjsR9pdrPY8kNCQ",
+    "name": "Rajamane Systems",
+    "business_status": "OPERATIONAL",
+    "vicinity": "3, Doddanakundi Industrial Area 2, Garudachar Palya, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "user_ratings_total": 10,
+    "location": {
+      "lat": 12.9928067,
+      "lng": 77.70554229999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9941710302915,
+        "lng": 77.7068904802915
+      },
+      "southwest": {
+        "lat": 12.9914730697085,
+        "lng": 77.7041925197085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU4PiaVnDKptqUGQHs5scbXq_uweLrsy82zEVNdMxbRP7pz9TQSVL0LC5FOAnlgPX8EM5UvRCnAUpHCHzdCHBbb_cALggWhzblvEaferwDMU1PRmdyoUg029bofhA3ydxW3BB5e-LjyKV4HLyEZq6X_Vivl1TS5w8r4nj_OFlkZmcVezn2Tv7fHoyMt5G7bs5SeRl6T3iFYv3qvKZmbosDEWsmZd8McKd9YUrk1EMUtJqRtgMShKmZLuWGQaDnIxHCjse52gE7QALb_RaHbxLfM9SoGtw9xic0PfgxkFMVa_-0sfsgCpA5NLn58Yg9PHLCUvhLcVoBGN6dqvGKjqZg8kX-zMmKORQRdLc0mFTO2h6Hl2qIA9uUbYP5hEn5vk_WJecAo3LWuCwsrw4-3uy1HbczhPgxWS3hrhf8KqxIMIDJI23chEVl0vQvklKAYupPTLcMncbWTwEqNezYMm1LXmgs8h3AQNQ-S7ODDo-Tp_D-lzjS14I-8eYR9ZP_QbbS1USw8ss-4eFeyJYNjPYvfEI74d4IjwUJoXXV8NCyVlN2jK0SnhgYOn7Y0BJn6utNko49GLKspyReTiP9fQpO5uHVxK9Of51lBUZYMWKNB3ceNp9F6s3uMqHCPF_GCVW3WRrg",
+        "height": 2604,
+        "width": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115857664741989250098\">VYSHAKH PRAKASHAN</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPV4+46 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPV4+46"
+    },
+    "international_phone_number": "+91 80 4248 3700",
+    "reference": "ChIJVVVVlZkRrjsR9pdrPY8kNCQ",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJEX5NY_4NrjsRi5uc7YCFy7I",
+    "name": "Maruthi Clothing Company",
+    "business_status": "OPERATIONAL",
+    "vicinity": "metro pillar no.248, 31, doddanakundi industrial area 2nd Phase, Mahadevapura Post, Whitefield Road, opposite Kia motors, or, Bengaluru",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "user_ratings_total": 374,
+    "location": {
+      "lat": 12.9868842,
+      "lng": 77.708618
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9881985802915,
+        "lng": 77.7099987802915
+      },
+      "southwest": {
+        "lat": 12.9855006197085,
+        "lng": 77.7073008197085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU6RwZrZTCCuantpDtadd13t6NKwGQ9Fn1MfB8cnNuoWE1779qGKBH8zR7fKNNZsElHcD5Ab58hDh50gYdn18oVWb0wG5SkCmZsHR4hlUenkJ2MfO0WM2wCz4o-vErTvoEzcAXPowa_LtANbUR6wYt7D0KiMhfJXU3sxBEf6Q__h-7qkaMMoCcoOOEviLQWupNmjZoiZk-FV9o9jmy8hLp2Y0O37qoZo3pWaU23UG_L7sjV4plxvDLEdg5tQUECCKRqRS72iimbPwK_c2bseHFp-rLO4jPYLPdcpaAeVQozcLjNvwdljlb4PxGgiJK-kjT8_lgZRZIw",
+        "height": 4032,
+        "width": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108843188600106681403\">Maruthi Clothing Company</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPP5+QC Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPP5+QC"
+    },
+    "international_phone_number": "+91 97399 61905",
+    "reference": "ChIJEX5NY_4NrjsRi5uc7YCFy7I",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJvf5WhZYRrjsRkPUO0y8tYNQ",
+    "name": "Transferet Relocation Services India Pvt. Ltd.",
+    "business_status": "OPERATIONAL",
+    "vicinity": "Bhoruka Building, Ground floor, ESI Bus Stop, Whitefield, Mahadevapura, Bengaluru",
+    "types": [
+      "moving_company",
+      "storage",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "user_ratings_total": 228,
+    "location": {
+      "lat": 12.9933534,
+      "lng": 77.7063175
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9946313302915,
+        "lng": 77.70770343029149
+      },
+      "southwest": {
+        "lat": 12.9919333697085,
+        "lng": 77.70500546970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU47vGF332GvYjYBOzN8HEui29QT-9JqxKr_2pOHoXSflJtRIswmm1_A64xZCU1bOGRpMdguFsxriFHP2j_X_K1Gc237q7v1MVKvGld4ZlYSMTGOnYIdvauIaiquOkHMe34d76LTyM4DQcqVC8Kgvw_exPkKByw1B6VZHCVb909vf6wt3bc0tAZGcF-ZepjhSl6jRnOvfPeFao-Z7gd7_ffadJZlubpovCe-U2gJ07v1H75toMD4J7OB5ukMod8zVZVkxsPLCJN1ZuJAZBZTamys2JOyGefuAhon3DEn1gsG-BPsPygY-0OJboQS85FG8q_gyDqc_cA",
+        "height": 540,
+        "width": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116179779398874124228\">Transferet Relocation Services India Pvt. Ltd.</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPV4+8G Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPV4+8G"
+    },
+    "international_phone_number": "+91 80667 10000",
+    "reference": "ChIJvf5WhZYRrjsRkPUO0y8tYNQ",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJVVVVlZkRrjsRP_gRkjYCtD0",
+    "name": "Mohinder Agencies",
+    "business_status": "OPERATIONAL",
+    "vicinity": "DODDANAKUNDI INDUSTRIAL AREA, 34-b, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.8,
+    "user_ratings_total": 10,
+    "location": {
+      "lat": 12.9805118,
+      "lng": 77.70667139999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9818258302915,
+        "lng": 77.70800663029151
+      },
+      "southwest": {
+        "lat": 12.9791278697085,
+        "lng": 77.7053086697085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU7qdX8Goy-K3G2Bj90eLRLJgh7GQAU8-SL92zSc8fV4pmXlu-59Zu2kFczMKp7kAZi8oOJR_4ZYCSMT9cXPgje2bTIx8-dbJxs63HxayBFo49c0mjOPtAQnI7tN-eTiX9KrWG3xdTOtXz-GPzg78kDBVZ5IjuRMh_cdVklcfoyn9oFJhiD20HPcabIWKr2wjuwFmfXayCgzJJ1osN5XyZHRFRqg1gjcrSjHydL5wWMii3urO32ZkRXOGkB3Sc4hbgPEtp9E2FqhOSSuW1uvShP6SfgShSxPcAjx6gWqC3s579WQeyCAwJf7ivQmzlXAAoJrUN80qknR0PEi48TYkmK0S0C5mF9g0GmS-W_lm2ehS8RydxwVvneFojhojHs7ysjLVbm2oXCwU3hfpkKPIWF_XhYEaHYv9JdmsmIyS9iqnIAlBNv4kvj0dsGb23nr-K0juLITmbF4KqixCkDNkkx91-zBeJ8Whar14Wqhb5KDeTkS_c7ifeSvUEvDjM26ZcZl7ZS87X91cGtGDKhngq1crKcEA0_2ocnyFKC-Z6NfJlFzwJCdiEV-vDURWT9QzafuOnrhmV2Kjn2Heidn1WZAAALdHit0XqZ9pB2fo0XLeZyyVhiNuf7S9eo9UA-wRZcetw",
+        "height": 4624,
+        "width": 2608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107412509720831552757\">Krishna Sharma</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPJ4+6M Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPJ4+6M"
+    },
+    "international_phone_number": "+91 80 4115 7884",
+    "reference": "ChIJVVVVlZkRrjsRP_gRkjYCtD0",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJaX5d75YRrjsRifLiXiHilOY",
+    "name": "R & S Electronics",
+    "business_status": "OPERATIONAL",
+    "vicinity": "1st Floor, Sp 1, Whitefield Road, Ngef Industrial Estate, Garudachar Palya, Mahadevpura, Bengaluru",
+    "types": [
+      "electronics_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "user_ratings_total": 17,
+    "location": {
+      "lat": 12.9910538,
+      "lng": 77.70415919999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9924119802915,
+        "lng": 77.7055694302915
+      },
+      "southwest": {
+        "lat": 12.9897140197085,
+        "lng": 77.7028714697085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU5VpvTZhnzDUN83gyBDx56gVuhhq-o8-2MTrNDTiSAJWYi6ej4tIfz654nIRgbcsY4s13blpvffUMT7OT7iszMoFXh91OWS9C4EBOM4vL3vC4ireLmFujhZ32-Sx3C7MKtgtfRTt1g4woW1aW2eNUebRV_vndGEdLc08HjhP1MiVcurVk3AW655R_uZggWJefy6Y9HlJzVczY_e3i2w4QX6ntEOBOaLptVF0lGHUU3nSGbFNTd1QYOCe91YJPP0u9jVEeKiAGsTbHsHJl08PlRX6Ekl3EML-0e0QwUqvx0ASDTfAh1wl9z5msiu_KlJYHkvJxZS8cRWDbGwoWWTybJ2U382I3LUTWdlnqCKMqwtgB287AAfi3CtwjUS0k-fn3GtJxDhMsePBDFMGRTATOAR2MNZG4nzLhigfpYCngsGD90L9wHNN3jUUUc7U8znndyshlj7YxNVXGhDACdILKcTXJKB19WAJMOtq7fgW4jsuYUQp17RIpiOmJTfu9Zxu0ZaSGSSy9HfTAnL0btd3eN4AShy9mx9xldAGeRn6suBfavyssRb-G2RMe-DrLQD6UydoOX9CbttKV3kEq2-3YxRdKRMZUxngYt8MC_RvuJh5PCB_gFmsnE1blve2lkll8e7kcLwg9qZMG4CDnSkpQ",
+        "height": 1066,
+        "width": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113076771946851124462\">M.S Arjun</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPR3+CM Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPR3+CM"
+    },
+    "international_phone_number": null,
+    "reference": "ChIJaX5d75YRrjsRifLiXiHilOY",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJsWgBwoYRrjsRHVm-6yiEbSk",
+    "name": "Strategi Automation Solutions Pvt Ltd,Bangalore",
+    "business_status": "OPERATIONAL",
+    "vicinity": "behind Graphite India, Off 25/B, behind Graphite India, Whitefield Main Road, Doddanakundi Industrial Area 2, Doddanekkundi, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "user_ratings_total": 71,
+    "location": {
+      "lat": 12.9764045,
+      "lng": 77.7065519
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9778025802915,
+        "lng": 77.70779878029151
+      },
+      "southwest": {
+        "lat": 12.9751046197085,
+        "lng": 77.70510081970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU5ioOkb1oE7IavMB982DQ7pvFc5jToG-T1UhlSHw4NJnMzreBEUyCJA9MQw8I-Anll3cGWYphqiIduMaNPcMi7YilE8s8Xb7GaVW5Ea-dzyJ5Wtc79SZK_DxeQgVxZFdUpyynnDyuDJXPIGFNMyarf3INLMqrR_WpHgW4kO8SFuo5q9_02A10F3PcHG9QakdMbYfTDzSTECGcIAg5r49Ie1oWxzkSz3YxARVkruN8KH-ziML5sd7FbTwFrTYb41mxtau0kpi4ecxhyDfHibPSSWlmVDYfzoArmPSEmiB1lZkjjfZYL4H0yBnPQwRLuiIyJR3NMeDeE",
+        "height": 693,
+        "width": 1372,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100325339814331022744\">Strategi Automation Solutions Pvt Ltd,Bangalore</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPG4+HJ Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPG4+HJ"
+    },
+    "international_phone_number": "+91 80 4116 3136",
+    "reference": "ChIJsWgBwoYRrjsRHVm-6yiEbSk",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJE8R9PncWrjsRrQl3LDl2-p8",
+    "name": "United Telecoms Limited",
+    "business_status": "OPERATIONAL",
+    "vicinity": "#18A/19, II, Doddanakundi Industrial Area 2, Doddanekundi, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "user_ratings_total": 39,
+    "location": {
+      "lat": 12.9854543,
+      "lng": 77.7087267
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9868305802915,
+        "lng": 77.70996653029151
+      },
+      "southwest": {
+        "lat": 12.9841326197085,
+        "lng": 77.7072685697085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU73wfFQTi6cqSgGn-CQyRht9U4ueHdnpJpHn0mG-MeLl6odNgWJ-cCg0xuH17SAOpljETJIA2VlGwcAglUh8M7bD-RDB2vMyoItqiTAk36qqUFiy6IjS2zUu-wcvWvKmFchSOYeojCvgHBSoTuNcc5yk4mLtdy4eYKv5Yb5PFhkJ5s03HUWnbKEa685nEMZYSPXbzyJidxRN_NqjbFS8AcDX3dQn2HyMMtehJoennF2wRagJvsPS6kuuiw_U7Nf-yh8mHMtaQQZuiOgOd4PPRZ6oTDd9JY7AmPFUhLKzDB8zcat24AA-3LB6C7xIzqBN7uURNylboJHRh5pbvhVf7_RetQmYw9ciYoheQiFBX5mquV3KO1vEmdmhhgWq0rtlajMWDFdfnYdkTeRDeGDt-PrU67qFTFpgxb5auBrNyBVNrMCAH8qKe0bTMRRO7UHe9qtQjH-72uY4fDrtFgxxWfMbFI3tq7k7sEhZ_BZIXEJyyKpL-I6IvcmPDouS7NaPqLV33Ii5wagCX7CcRnmHi0SkexMB6W_BkAR9Q8NRnUQpO1uWvLNSGH1xmY8MlIQHAiQ4rvI2sU6x-ek4n-kyAmFfMumt6oK59AG4Il6dcPuBPRmpGCJcRUn91oqrBxg7HJ-0PZy",
+        "height": 4160,
+        "width": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113482231002793726281\">Ravindra Pai</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPP5+5F Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPP5+5F"
+    },
+    "international_phone_number": "+91 80 2852 4050",
+    "reference": "ChIJE8R9PncWrjsRrQl3LDl2-p8",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJ18fBYBIOrjsRpfbRUgtxhok",
+    "name": "Aforeserve",
+    "business_status": "CLOSED_TEMPORARILY",
+    "vicinity": "540/1, Graphite India Main Road, NCPR Industrial Layout, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4,
+    "user_ratings_total": 139,
+    "location": {
+      "lat": 12.9845761,
+      "lng": 77.70799769999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9859256302915,
+        "lng": 77.7094488302915
+      },
+      "southwest": {
+        "lat": 12.9832276697085,
+        "lng": 77.70675086970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": true,
+    "opening_hours": null,
+    "photos": [
+      {
+        "photo_reference": "AWn5SU4A5-zAHpplQx-fDPzvyTqs9FyR3S6Wz9mnqRH9hSxHbkL65NYUs1NCVL6pmhp-raIg2kzIan0EXwcJFdpJeXNzIb9aYrgGbDgwJBZItbZnkLvXojF0OEHIY13P73np0wgwlZI72wo2P2cmRVrnM67QiwLqbhV701lmncdYOAEleY5y6_oS5U7vqtBvMYE84-1r4TnboMw0ci2HGH72SghIPSECVIphzLGwpPS3HQXAFfv2rFDcHud59mCWjb-2moKGYA6tLmAM1WqhnlgM1Ot5Sa8AU1YhZMQD-cgZIKcsqlkt1CnoxLPzwqxZFJFOv0ByiCtJO0rA8lt6jq4jh-PzAyhUFAwhp4_raeJ7xa4V6c8BTakEiZOzteSO-I92VSRfSomX1SI4CvlbERw9CSQN1u2UXwY0Oq_4Onz0hk00QoXjPXhnv-UjzktYnHd1v_9hsBFMbzX8E7OVyEmC8zHe_oleTo1voyedXu1dLevjrzb2xyVi8gkWeaCpYIxylHJsygk_6CWypvvzx3sjylJduomTpQhrRBSKCICNjfQQ9LzHwThJJJpoguTgHi9mr_0_2lZZlF94qM-tQuMOYLd6usVz7VDiSSGlwcnS4O98vl3XdvzQSYaRZa4lGSW5u6XSBg",
+        "height": 2272,
+        "width": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100400435325663446585\">Nadim Hossein</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPM5+R5 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPM5+R5"
+    },
+    "international_phone_number": "+91 80 4166 6619",
+    "reference": "ChIJ18fBYBIOrjsRpfbRUgtxhok",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJ4WpAtoQRrjsRm_kxt7IpEhw",
+    "name": "Shakti Auto Cam",
+    "business_status": "OPERATIONAL",
+    "vicinity": "No.18B, Graphite India Main Road, Bengaluru",
+    "types": [
+      "car_repair",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.4,
+    "user_ratings_total": 14,
+    "location": {
+      "lat": 12.9834709,
+      "lng": 77.70649709999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9848173302915,
+        "lng": 77.70782968029151
+      },
+      "southwest": {
+        "lat": 12.9821193697085,
+        "lng": 77.70513171970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU5BLRupT1QP_1S327jhfBV2euy_BT1GVX3wSi1fH4Dlu5OSiZV0I4DTo5R9yG_J7HCVpblZA7cl-RwZQ6-HVrFIOhkpu0crY1Aq2h16KgckypdNtxPAIWxQNNd6Os9T25QapkLmq546AGdiwzDo3pAlZ_GCW0wWLSpgS2-oJ24fAQ9uNqRVngDb24yzjpVoQfEtAtaCTkSBDAcBWqDeW4SNOyVi4YzVNhDfH-ddfzeaa_dWW0ekoi8Sb5C-ZU9j7aDDgK8nsP7A0dpjOx2RB1F0JEcDtMeLCNhK1BOwMQBR_0r9lHbPV-wyF6JzT6ICtJqVwxsDHMXmzhFNpELQDNtrj0AIz1k6ds6iwSaMw49o3IWXxNwe6Gb4IXsNL521m3jSfJP-EFVfEKCzKRKIwkF5X4rGOhV_rQxvbCpV_JeUA1AglXsZ1vpJIArItChEoX_ifUB8AiADrX0jAnSUwMS-jSEfCrg5yRJFv1Pv_9tHRhntvtifa2W5o74xmvyu7td_AccSBMMIF1tVdwqJJC7j_M2VgozHD8y3jclXUXDiKoUa3Hh4k1f7_RbBiCG1wsy2F4jZa8YlXRXjnHC-mkLrVEU9dwCKaiFeGgJELXk5zfC57Y50M9xJA5j1IMhC2zVi3g",
+        "height": 3264,
+        "width": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110969660622133282722\">Sharath SR</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPM4+9H Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPM4+9H"
+    },
+    "international_phone_number": "+91 98440 09408",
+    "reference": "ChIJ4WpAtoQRrjsRm_kxt7IpEhw",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJLU6lP4cWrjsRGdEmtWvBM2I",
+    "name": "MResult Technologies Pvt Ltd",
+    "business_status": "OPERATIONAL",
+    "vicinity": "9th Floor, Nalapad Brigade Centre, Whitefield Main Road, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.5,
+    "user_ratings_total": 43,
+    "location": {
+      "lat": 12.9929541,
+      "lng": 77.70234239999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9941922302915,
+        "lng": 77.7037984302915
+      },
+      "southwest": {
+        "lat": 12.9914942697085,
+        "lng": 77.70110046970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU5uhYDfNA7XwGt_eKGevZGQ4jqdSWk5CJlLR76I9qaOW591QFMHg0TEW-SbBZJMs52FFKTCDAW4XZJbj8H49GxIlBNV2sA5beLxU8nqnIBUXQ3BKIm-YP6CH4yagygOwfLddPTlSRoulcZoUrEJ1A8L93fSVSKjkBxQwuRk0nOSJ1mSjUu0mT1-aRObiPG7OjrFJUHRbRnjEk9ay-saZPzeRyhSEqxodwaTjJuwGCqhwviGqNFOQD_MsWLmTH7mxXkYoHzx1_UyMfJoqYB09yInVLXpiAddj-RcEyMa2n8yTQK80N1mypIE98yW_V0J4YkZBMAurQS6kJc_R2zvY8oTckoLO__wEpcfAlPIba5igO-OH6Rv_leVWxxzGmQ2bNYguOcMT46mq0tsDw_AMRVFXoZUNbeNx5SPnuQj0GFNV0hNcmZvQ73rTeHMnalIavz0lPJG5y4OUzwJtKfPJaBLN7j620VfxbZL4bjWDa6vq4VD2TpYfYgweoNHnk7LbA-xH-40QS_VztzJpmwCNUi0hlG0qFtwiYPmb-y03ualH_qbeDEtXWp3jueu-jxa8xyozIO2jr-eik9r_ShJSUau8DhpTjDobk1seY_nBuZB-nI_ucn2lH8L7cIjEm9vsSGlAbTq",
+        "height": 3456,
+        "width": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108524929354742999565\">Naveen M</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPV2+5W Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPV2+5W"
+    },
+    "international_phone_number": "+91 80 4081 0100",
+    "reference": "ChIJLU6lP4cWrjsRGdEmtWvBM2I",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJ4-UngqUWrjsRSi7Lpipc0fg",
+    "name": "Shobha Misra Communication Skills and Personality Development",
+    "business_status": "OPERATIONAL",
+    "vicinity": "GODREJ UNITED, Vista A 501, Whitefield Main Road, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "user_ratings_total": 1255,
+    "location": {
+      "lat": 12.9939887,
+      "lng": 77.70407089999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9953217802915,
+        "lng": 77.7054879302915
+      },
+      "southwest": {
+        "lat": 12.9926238197085,
+        "lng": 77.70278996970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU5lx8PAJo-yITO0olnZR0X8ZYQ0ogLIR23hP7e5XYUkfqquV12PrDJNSPO9eQCUVKwn9gKjl3MzxktIZ-AORt6EjHmTYji2tI9RUUI5MR47OIA9FFtq2IzWIfjsHiX9_ev-xT8ViRR7AVqsn31fk580WqWhkkraLiNU8by7TJ-fXNINcPqXePnUDSxtRMDO6SfftolFPnE4UXvrOnM_-Lc-yO4dZiL_V56eV7tn3148ldJiY-69NmtGY-yFXo8wrYBcwn6-DYzuCNDvUKz9ekur5SjS6Ue_eXkmnZaYVceZYPCX-FYYqnoGC3xrQ85nBcyr1dbQf9w",
+        "height": 3024,
+        "width": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108543663281548254987\">Shobha Misra Communication Skills and Personality Development</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPV3+HJ Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPV3+HJ"
+    },
+    "international_phone_number": "+91 93412 68477",
+    "reference": "ChIJ4-UngqUWrjsRSi7Lpipc0fg",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJVVVVEa8WrjsRDCSJqE-W3N4",
+    "name": "ISA Impex Pvt Ltd",
+    "business_status": "CLOSED_TEMPORARILY",
+    "vicinity": "31/1, Graphite India Main Road, Seetharampalya, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "user_ratings_total": 2,
+    "location": {
+      "lat": 12.9787277,
+      "lng": 77.7111367
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9800754802915,
+        "lng": 77.71248053029151
+      },
+      "southwest": {
+        "lat": 12.9773775197085,
+        "lng": 77.70978256970851
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": true,
+    "opening_hours": null,
+    "photos": [],
+    "plus_code": {
+      "compound_code": "XPH6+FF Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPH6+FF"
+    },
+    "international_phone_number": "+91 80 4300 8482",
+    "reference": "ChIJVVVVEa8WrjsRDCSJqE-W3N4",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJJWQQyAoRrjsRlcRElkF914U",
+    "name": "GF Machining Solutions Pte. Ltd - India - Bangalore Branch office",
+    "business_status": "OPERATIONAL",
+    "vicinity": "ITPL Main Road, 31/1, Road, Seetha Rama Palya, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "user_ratings_total": 35,
+    "location": {
+      "lat": 12.992912,
+      "lng": 77.70779069999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9942515802915,
+        "lng": 77.7091393802915
+      },
+      "southwest": {
+        "lat": 12.9915536197085,
+        "lng": 77.70644141970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU7AnlPf2BbZWxu7JsOSV83HEStu1eEV7OzNo1k7fFGDjh2MhlAw13PHqCYO6ZB2i26cj9d5hcAJsWCD3-YfYrGy6cJBUVkZuLvKPmDCxOposg6I7GsahvA8imKw9uHMaeQ0IJCLen2ERkt-HLuGYOOR9JRnoRdhewxwPe1sp848yRxAX_AqMkDt8YTCHk_uwEocIXQOMmts-65IrkjUVpcqxPc_89jgajVt_vCW8_wRIyDozBQJfRyHFAwZzaouaeNK8ZffS8bk_SrBcKMufPs5FAJfkovm6BaGb4LLu2k3pgabsDbu0Rf7efuDtJK2Wk1H8g9Ily6HtB2r_DQSZmeQarJR37eBiFXAS__FruuDoYkNZn3tKafXxfWbqsuj-EfeMwTBe-1WaaiRgivFGmkvMCh71FStWJcjx3acJK-rF0a1_M8VLfJGfXIfk-Is4Aa9piN4oKjYU2qSWkhOQXC70yNa6hfXMhwMdkcdzBQSMtOzONltDMx-RDBI1o6xl9vzplHVXK-rIVBLjwv2q5AZke38mJlJPqTjcFMNE4Xp_WLNuJlTLFnPn7gy6z45jvb55gNdlL4mVC3CMNTkGox0adP00seYOgFGx23GaOlRFBOBVsoUvYHYQi7FQSLo8F2PUJXht6EW8n2mUwHOSg",
+        "height": 4032,
+        "width": 1816,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109782713130793835072\">Deepak MP</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPV5+54 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPV5+54"
+    },
+    "international_phone_number": "+91 80 4079 8010",
+    "reference": "ChIJJWQQyAoRrjsRlcRElkF914U",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJVVVVVXAVrjsRt4ZnBvQCKFg",
+    "name": "Gujarat Petrosynthese Limited",
+    "business_status": "OPERATIONAL",
+    "vicinity": "24, 2nd Main, 1st Phase, Doddenakundi Industrial Area, Mahadevapura Post, Doddanakundi Industrial Area 2, Phase 1, Doddanekkundi, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.8,
+    "user_ratings_total": 25,
+    "location": {
+      "lat": 12.977415,
+      "lng": 77.7073352
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9787722302915,
+        "lng": 77.70870758029149
+      },
+      "southwest": {
+        "lat": 12.9760742697085,
+        "lng": 77.70600961970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": null,
+    "photos": [],
+    "plus_code": {
+      "compound_code": "XPG4+XW Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPG4+XW"
+    },
+    "international_phone_number": "+91 80 2852 4133",
+    "reference": "ChIJVVVVVXAVrjsRt4ZnBvQCKFg",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJ-6eNP4URrjsR7PImSz2WlJU",
+    "name": "ASSOCIATED COMMERCIAL ENTERPRISES",
+    "business_status": "OPERATIONAL",
+    "vicinity": "12A, Whitefield Main Road, KEB Colony, Garudachar Palya, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3,
+    "user_ratings_total": 1,
+    "location": {
+      "lat": 12.9917236,
+      "lng": 77.7063471
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9931621802915,
+        "lng": 77.70761518029151
+      },
+      "southwest": {
+        "lat": 12.9904642197085,
+        "lng": 77.70491721970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": null,
+    "photos": [
+      {
+        "photo_reference": "AWn5SU7SP1qmRLvTqDhommv39x0S1v2TrSK2caGH86TiNnsnfEd2Yd5vGQoMjPfef5Fq3-yiVqpeYFwIT_ndSxnF2VKNtrskQp82etcvBnqe6iA-zIAOYPEHoFanFigpGz3-VlhOvBW-_dVo5cdaZYTuMRmqpkwLdVSXDeqqxysFw73Rl-UvtD2FDBwHwVytjIcdGGPtrLYYg5PbZ_bPelGN4mik8Uel3M_Y_ZeQqU80JFOnMX2pZb8yIyXY2-YS9gUED54-aPdEdL5-zE7MjmlqRQC4aJCko8HbCjV-JPIhpEudPeWGheNG20fSwcQGiMlXtJJaOw7uBa4",
+        "height": 744,
+        "width": 994,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106385015761965222540\">ASSOCIATED COMMERCIAL ENTERPRISES</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPR4+MG Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPR4+MG"
+    },
+    "international_phone_number": "+91 80 6560 1259",
+    "reference": "ChIJ-6eNP4URrjsR7PImSz2WlJU",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJq6qqqn0RrjsR3d61bWtb8rc",
+    "name": "CC India Private Limited",
+    "business_status": "OPERATIONAL",
+    "vicinity": "2nd Phase, Plot No. 40 (G, Doddanakundi, Industrial Area, Mahadevapura, Bengaluru",
+    "types": [
+      "furniture_store",
+      "general_contractor",
+      "home_goods_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "user_ratings_total": 19,
+    "location": {
+      "lat": 12.9902806,
+      "lng": 77.7074324
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9917359802915,
+        "lng": 77.70876013029151
+      },
+      "southwest": {
+        "lat": 12.9890380197085,
+        "lng": 77.7060621697085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU7RoxLyr13O2RNNsWJzrWqMRx7B5mSPd3lcqUHsCnSLPgjA6B5ycexfp1oivJGf-NtzcPIySV8kt81fnttnTy6-xUh3eQWbjBKN87H3n0I-_BL5PrafgYyBPSarwLP_4jw8kHoLAgyCRE5L44-lI2IHgEdgZ2XbUVTLprDnWlGBXIKi8z9GZDXWmYTz7qS2Xi6rIR5IIxS_TsA4gacdr7qEwWy1z3NLuvHvb7NKSEkc27KN0VM1TPP5p5fKdjtieQfuK0L96SXgvtxhbIlDjpdk62G4gSjHrdebTwE0i357gKb8K4nSHbgdhCbhOKBUAhXDT6tp3-ES5UWyec0nKvIohL3De868X5oppHc5Jgw9Qlowe8HVZaD0ZMYEMlZ_tSuDOSfm9V7IUhHZd1cXbcWs09uhY5oUvG47rKdLs8wsjjPhyLaKas-mpP8zMMX4XD7Jta9F1eoY-bXdG89hPoY12VaIGgqrMZQ13Mzg1IFk359q0Bfo5ktsPH1SsMbTwTH-WwsUpII4S8k-HXeeXNB9rTF4XVOBdR2HEENSAvEu7LurTBV6-NIgafLbFkhWYPdLO7nI98MI9AHYQ_-YshmPXkPhp1uUJ76_5H83ZJ2GLGMfvc10DNye_npf4SNElgE7WkrR",
+        "height": 5712,
+        "width": 4284,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110124328706885309818\">Bijoy Bhaskar K</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPR4+4X Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPR4+4X"
+    },
+    "international_phone_number": "+91 80 4116 1734",
+    "reference": "ChIJq6qqqn0RrjsR3d61bWtb8rc",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJqUNyXjUSrjsRhOyTcDPMJqE",
+    "name": "Zing Technologies",
+    "business_status": "OPERATIONAL",
+    "vicinity": "A4, 3rd Floor, NGEF Anciellery Industrial Estate, ITPL Main Road, Garudachar Palya, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "user_ratings_total": 8,
+    "location": {
+      "lat": 12.9913007,
+      "lng": 77.7057428
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9927232802915,
+        "lng": 77.7070806302915
+      },
+      "southwest": {
+        "lat": 12.9900253197085,
+        "lng": 77.70438266970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU5q7DIzFFANXwU8roNCFv5oq1kaQazmuDl4SR_B3-GdtN6yFujacy1MeVo54bdDTsN4tIqxYoB6rM4Qa1a6WCIgRaggDc3krWgU1Rb02JrsDKM0R6J12kXv8krn5gzM6mTUv4mjzvciJTff_51OF-oljzacy9Y-3grEmzkPhpskWd64Pno58YN3nIg96mjtOfcRrUyp195kUuG3fem5HnUS5dcURQds5DImcR82U1dFCb4--T1KIspnNAB0yodYd1-4Mso3rx7cjB5Ib18HTbRhPk3JvqycgnAtnHZP42lraxVSDYwtW87o83p-SB-Wwkpapold0nOdLBIpKD5xiHxzSklA-bbmmHlngVkF721ad0o9UOv3wlAiUDpwhEV2m4eEKoxP3GBNC394IC4fAlC9RewsWKqCVZ4wbs6raQpwaz7n5CGUsOonXt8TO11wWcaHE0F1ljvla2DFU4mt-fmcy-QmdSbXnORau0yFKFLNFdSC1eyWNTomepl9MKf6_IKb8ccfQpc6Q0aNnl4l4anium3dUmqgubeI533t2FxXy-KKAGyC5UMkGpWl02Rtwe-dZdtCi9pOTccloW4FX0kNrGL2Bbj_Plxy2DAYpcxmPT5bhBjAWuHxROENo2UivxMUIw",
+        "height": 1800,
+        "width": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101537457459741685047\">Sridharan M</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPR4+G7 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPR4+G7"
+    },
+    "international_phone_number": "+91 97406 01114",
+    "reference": "ChIJqUNyXjUSrjsRhOyTcDPMJqE",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJ5fKoA58RrjsR32d-AL1c_v0",
+    "name": "Rite Cure",
+    "business_status": "OPERATIONAL",
+    "vicinity": "XPR3+X3Q, Brigade Metropolis, Garudachar Palya, Mahadevapura, Bengaluru",
+    "types": [
+      "pharmacy",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 2.1,
+    "user_ratings_total": 35,
+    "location": {
+      "lat": 12.9924514,
+      "lng": 77.7027286
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9938079302915,
+        "lng": 77.70413748029151
+      },
+      "southwest": {
+        "lat": 12.9911099697085,
+        "lng": 77.70143951970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU4CtkMepYyWdOtQkbni5jeR2FKitfHT99_9Y53cCSZr06W6XAnzDz1LzHS11zmQdVhFoY-pZ9QfUYBR4rH_0K0k9kr2KD76Y5GffI7nUcx3WxXdUmFLZvnMw7EALGio2nt1M-ZKPlzgOesN25L0ixBZdJbGQWdLfy04PvH5KTErt4SfREaANaKLTbt1j2Nguc8IX6z62t2GAjhloi9Be2JTlEm_u3wmjVUgOUhNlCTFhYc9Ll0tXYjsIOMXe6sMg2Gu9F9xawqCjIwmjbMdVoRinV-1ipyb1ER0tAt98PVivDG8nzXRzqjUENf_y1Rzf5Ixn7Fc-g4FUSCcPjwEqpj3i4ksqZgK17LkqPowmpOJroAUKk_0Q69WJm4hEh3lU0cRFgToKMJLfEQq9mmbh1K7j8YG49oycVjqwWiL3KKclhTD7ExhQJ0XWOdzkoMQCxnXEM2vgSUG4Pr0NlqDcfHsrrjfN3oaB8_FDv9YEuPdVPDXRAeU_u0aqxDD-mzkjaxqHEuR_itwIEwlhtIFGshASCcdRX8xHzHN6gyTjBAtxFAlq20QV_otjGtYYie7aQaDibiCmKWfu_cXiLYdlK_qlkfUBDHpZjC-g05qgLld1Y9LugpDTP-auzHpM0MMLJ7UTA",
+        "height": 1080,
+        "width": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108663953097483792348\">manu muraleedharan</a>"
+        ]
+      }
+    ],
+    "plus_code": null,
+    "international_phone_number": null,
+    "reference": "ChIJ5fKoA58RrjsR32d-AL1c_v0",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJEX5NY_4NrjsR1KuKXXmBQa8",
+    "name": "Hiten Fasteners Private Limited",
+    "business_status": "CLOSED_TEMPORARILY",
+    "vicinity": "#25A, Doddanekkundi Industrial Area Road, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "user_ratings_total": 11,
+    "location": {
+      "lat": 12.9770789,
+      "lng": 77.70657609999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9784393302915,
+        "lng": 77.70794428029151
+      },
+      "southwest": {
+        "lat": 12.9757413697085,
+        "lng": 77.7052463197085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": true,
+    "opening_hours": null,
+    "photos": [
+      {
+        "photo_reference": "AWn5SU5rVh5M6oG5UbO4fiCtQXEfHkxisE2zXR4OV8dcahwdLBhJadBh_CUJjkDzf26CYBgeXN1vItISzyZsO6OFwk2ftdHfPVCTghtrytZLpryM0hrXu07rdZjmXhhVGyChtfzStjJIKmJU6N57ODLbErU9vSiswFB2ajx7FqhLPTnHxt-Nntn0sQIt1uYOr-ZBT6NKLy4wkOM96x4uykCwXzaSZVwhlzrdi21SUySOUzCFmnZ6lJXRIe1P6eNhv5QYUzIeoq9mj1I8ZW3gVdnIKENXYsH5S0E0rWTIzeIlnW31IYx4Er1_dMTGW6N3crXuUrIWiDuD38LinxniLK6SJaDonG226-zfs7YFvNPkXKn5tH_Rw85UGBxUfAHM7rm1gISvdghgtjeuUBaN2z0XXYXPzpxOMCF0WxVu0DiFhyRC6yQhLV-GXiCnTIL326lZEkqnkKNiySTmbqCr6YeFPbClxSoWBmhCOF45u2ztpjgywnd3uUodIrsJa3Xw8y6EHnG8VF1hO31oGj0pSr2YcWHJTCChBrGjo2dXIdWml17iz1k-9yBpXhi9GHU0_GqLbSue8fhsqUh3fnlnZ9TKelTHlr1nsIZkDcxW5WUDsOIQGCcNKmEzXlyKYC9vU9F2mHTCQCSf",
+        "height": 3000,
+        "width": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105168589436468225250\">ganesh kumar</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPG4+RJ Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPG4+RJ"
+    },
+    "international_phone_number": "+91 80 4097 8259",
+    "reference": "ChIJEX5NY_4NrjsR1KuKXXmBQa8",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJGwEW3zoSrjsRoXDEKBXqGA0",
+    "name": "Design Skillset",
+    "business_status": "OPERATIONAL",
+    "vicinity": "next to Bounce Godown, No. 30, Seetharampalya, Opposite Brigade Lakefront, next to Bounce Godown, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "user_ratings_total": 8,
+    "location": {
+      "lat": 12.9828433,
+      "lng": 77.7119065
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9841791302915,
+        "lng": 77.7131651802915
+      },
+      "southwest": {
+        "lat": 12.9814811697085,
+        "lng": 77.71046721970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "permanently_closed": false,
+    "opening_hours": null,
+    "photos": [],
+    "plus_code": {
+      "compound_code": "XPM6+4Q Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPM6+4Q"
+    },
+    "international_phone_number": "+91 80 4093 7671",
+    "reference": "ChIJGwEW3zoSrjsRoXDEKBXqGA0",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJNdEcL58RrjsRq62-ezZrUtU",
+    "name": "The Church of Jesus Christ of Latter-day Saints",
+    "business_status": "OPERATIONAL",
+    "vicinity": "No. 26, 2711, 2712 & 31, Hobli, Hoodi Village, South Tauk, Krishnarajapuram, Bengaluru",
+    "types": [
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "user_ratings_total": 101,
+    "location": {
+      "lat": 12.9935478,
+      "lng": 77.7065215
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9948081802915,
+        "lng": 77.7079303802915
+      },
+      "southwest": {
+        "lat": 12.9921102197085,
+        "lng": 77.7052324197085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU5SZOAfAaa2Kde7Q25y27eAzOpFFe4SOCKmr4sgIUbRv476s47azAIfRoxVhrNAG0LZFU6o3t4PYHE4JC846lXMMtaPI3hImi6_4sz3LMvgTmDMtFKp2F1CA4cdRTUInhU5EMO6d4khaeXoamT4_HEBuv9R6Pow6gs_rcpz5zNmwDSVCbcfhLr3NkmqLOFSkJFNPsdoXrP5A-6AFrZHATE7ePLMaFQvU-dZvKju7A-i8Kvnxnfe6jJ1Non0JhDlR87ICV-fOPyxvA7_k4_6M3ckXNLTIyVKJM0_xgffnSrNvZvNJvHAAPNeN0NOapy9tAq58ju7fctzrSKVLfdCaN--gEjbIGtzg_HGvjyju4H6RIx1ThQNugnhpRgAnguvM2_76_-acYorPUMdPr8zUSet1m7qfpdmWkow8hdVRITA1NCdMbgbWJ-oegioXok71uNhscVQnWhn1PFZ11P9krSucBRe62drsD0ENkV_1d9JSk8wVmPmh1YnV-DgePY--_MUlJcMTIxRJu1fJLQDX3zqunKeCdlArOPgZ9yHRBGKjOFq1pYRvQfwmfhWq8XUpdoFSbbamohZD3K5U-l-IiJBOC161MTuNVT1zc1lOLw5CthnBuT9gtojAZgTBcfvyw_akA",
+        "height": 3024,
+        "width": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114982850770691002564\">Weston Beal</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPV4+CJ Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPV4+CJ"
+    },
+    "international_phone_number": null,
+    "reference": "ChIJNdEcL58RrjsRq62-ezZrUtU",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJ0xnGrJARrjsRKQ2IGmrwP7U",
+    "name": "ADI Electronics Manufacturing Technologies Private Limited",
+    "business_status": "OPERATIONAL",
+    "vicinity": "Sy No 10/1A Whitefield Road Hoodi, K.R Puram Hobli, Industrial Area, Hoodi, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "user_ratings_total": 15,
+    "location": {
+      "lat": 12.9898273,
+      "lng": 77.7113909
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9911573802915,
+        "lng": 77.7127795302915
+      },
+      "southwest": {
+        "lat": 12.9884594197085,
+        "lng": 77.71008156970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [],
+    "plus_code": {
+      "compound_code": "XPQ6+WH Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPQ6+WH"
+    },
+    "international_phone_number": "+91 80 4094 7849",
+    "reference": "ChIJ0xnGrJARrjsRKQ2IGmrwP7U",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJVzw0QZsRrjsRP_sC-gif8Bg",
+    "name": "Gemini Fibre Glass Pvt Ltd",
+    "business_status": "OPERATIONAL",
+    "vicinity": "XPP4+2G6, 2nd Main Road, Ashraya Layout, Garudachar Palya, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": null,
+    "user_ratings_total": null,
+    "location": {
+      "lat": 12.9850263,
+      "lng": 77.7062807
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9863871302915,
+        "lng": 77.7075853802915
+      },
+      "southwest": {
+        "lat": 12.9836891697085,
+        "lng": 77.70488741970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": null,
+    "photos": [],
+    "plus_code": null,
+    "international_phone_number": "+91 845057780",
+    "reference": "ChIJVzw0QZsRrjsRP_sC-gif8Bg",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJTWSKN5sRrjsRx8Cjn_nXkTc",
+    "name": "YUKEN INDIA LTD",
+    "business_status": "OPERATIONAL",
+    "vicinity": "2nd Phase, 16/C, Doddanakundi Industrial Area 2, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "user_ratings_total": 32,
+    "location": {
+      "lat": 12.9845016,
+      "lng": 77.7066153
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9858511802915,
+        "lng": 77.7079693302915
+      },
+      "southwest": {
+        "lat": 12.9831532197085,
+        "lng": 77.7052713697085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU45M_oYH84wQyO9Zx51a3htUrcWMMaPW8cMiGhKsUH8VrLG_IeIzK-5s_ihXBStOFiw56CPvxVaCd8i-XYa1zLc1qdSvz1xxK8oV4aCyKT-r-0eta875NjeAn_XW7RPs7U2EhxTkQ-GDjVwQNzbwE8WsWUmVrU3_QsAhSIYMSxP9MDVGW0uaMs2AZfjfe89NnPFxV4oqU-cneeCCI3bKaUdMwoZ_Z_iTlFUpbemKgpw59mb8RkPPgGLV5ztpODFxcpDUB4P-qOvA3eVtck019d2r-7Tg6klV07Uce4whX9bGJU1X06SXwQKq6xZrI1Yz1dPN24aayK6mEl6u123R2pah2kE8vFv6jW1HMSGATKCqAhbHnOHLEnpSAqn3eDag1aGa6zJjfCjCn0o-mZL6131lzchMTec4cnoi3reF8Pgk9OAJrgMrMW9nTClyKM_Lz3FefzwM7zkxvPQpEfrbHzRuvOPPBAb0fS8_kw28YFwfP2wicwr6O6y3XqiI27nh074O7du5vhk44Sg7tqUY_AtHF40_IwkSPmMM9I761ie4ydhRtTwwQNMKEsAtiHHVt8vYBffDNdd0DusnkNoK76dqocJDNs-CgqPgUj7e4zy43aB6L6TrZLAD0vGAEiQ",
+        "height": 3120,
+        "width": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111481008729109404597\">Ganesh Naidu</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPM4+RJ Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPM4+RJ"
+    },
+    "international_phone_number": null,
+    "reference": "ChIJTWSKN5sRrjsRx8Cjn_nXkTc",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJS9W8YpsRrjsRU-ri4VeaB8A",
+    "name": "Southern Hydraulic Industries",
+    "business_status": "OPERATIONAL",
+    "vicinity": "No.10,1st Lane,8th Cross,Asherya Layout,, Doddanakundi Industrial Area,Mahadevpura Post,Bengaluru 560048, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "user_ratings_total": 2,
+    "location": {
+      "lat": 12.9873031,
+      "lng": 77.7053154
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9886599802915,
+        "lng": 77.7066107302915
+      },
+      "southwest": {
+        "lat": 12.9859620197085,
+        "lng": 77.7039127697085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU6zSxshcCS_r-X67OX7FUwHeN2YPd4-W5MFkRx27ajfOM61LeXOvr4WpfMomiiUnJcsfRvpVk3sk186K-e7lEXp3bg120nQV6u1l8BBMCOYHAgufiWj25aSvycCvqcObP-9BucAv85-bA-3cdQy-nbOl2RbMAwg_3xJkAkKjU06-ZiZc2X8ZecYYsSXYXlArbvs5_Wzi1mhWFNWM80j3bE2jAxb4LP5Hom7sMuIKWehVSu7osMcf2tsSslTXBkA_QaceymAdBWSp3XX7jd9IzTyE3Ihp2Sqf5qiPn0pgtU_YNuQLf5mCndJ5th0betMZfWucAcA",
+        "height": 716,
+        "width": 2560,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117556303920918023231\">Southern Hydraulic Industries</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPP4+W4 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPP4+W4"
+    },
+    "international_phone_number": "+91 98457 61295",
+    "reference": "ChIJS9W8YpsRrjsRU-ri4VeaB8A",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJdeC9BJsRrjsRYGNe7F71oXw",
+    "name": "Saint Antony's Tiles Bangalore",
+    "business_status": "OPERATIONAL",
+    "vicinity": "Plot No 14, Doddanekundi 2nd Stage, Industrial Area, Whitefield, Bengaluru",
+    "types": [
+      "home_goods_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "user_ratings_total": 25,
+    "location": {
+      "lat": 12.986106,
+      "lng": 77.7077269
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9874560802915,
+        "lng": 77.7091368802915
+      },
+      "southwest": {
+        "lat": 12.9847581197085,
+        "lng": 77.70643891970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU7qWAFMHw1a4aGFVywIVi4BjS2Hlx_SqFA76SxkwRx6hnPzhTYXT5rxMHBXPi-dgy7HMu13mYUZSvejfyh3mXXIvcRFh0gh2AOONdNhElYbpIeZlLkaJrQf4dOWcYkLndFDwiToNpK8A0laiJ9qZFtNe_kqj8CNyhaNfaFM9-lljnLvlk5UZv2IjWFSc9pSgIZ20OLf_f_AybeBeygMpkL6G9SOz07rp4GLwdyg5919KcBADHSSnI_Qmca7_KlN7XOL8aqsRMe2V_Lbmlt0xbVmUGpWPvRA7izfEr3w9xEOPT8R4diqKi15kVP1Iz8IgYPm8ZPhPgM",
+        "height": 2358,
+        "width": 3575,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102459698449456034943\">Saint Antony&#39;s Tiles Bangalore</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPP5+C3 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPP5+C3"
+    },
+    "international_phone_number": "+91 94808 87142",
+    "reference": "ChIJdeC9BJsRrjsRYGNe7F71oXw",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJR5nEApsRrjsR86hNOwcdXwA",
+    "name": "Axis Bank ATM",
+    "business_status": "OPERATIONAL",
+    "vicinity": "Iron Mountain Services Private Limited-Sez Level 10, Citrine Building, Wtc- 4, Bagmane Constructions Private Limited-Sez K.R. Puram, Marathahalli Ring Road, Doddanekundi, Mahadevapura, Bengaluru",
+    "types": [
+      "atm",
+      "point_of_interest",
+      "bank",
+      "finance",
+      "establishment"
+    ],
+    "rating": 3.3,
+    "user_ratings_total": 7,
+    "location": {
+      "lat": 12.9861107,
+      "lng": 77.7078786
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9874492802915,
+        "lng": 77.70919658029152
+      },
+      "southwest": {
+        "lat": 12.9847513197085,
+        "lng": 77.70649861970851
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU5mfF9GjbB0xldEDrv3It_FNdj-EnM8BhCSNAVvqdPGhZzkUANz9gFVW2A4qbs0ZFlHZf6VwhZjh_rfPhzECmU36TwMrTy-mJwePylbZwreERXv9VkPTkoYerz2UA-OGf2nn6qrACEgiAwa-TAEPyCZ46r5XQQvHXsFZ9Vx0cwlb3GcYj5uFDOpqktDccvCVXhfBwZRnHm4eSUTZE09R61uiCBfW_wd_chCxhpoUDgpCfwZJ2OOPnsbvji3vNUpPkgCKtN2rkdmBaTuo6HqsAn3-2JtMgHZb08t5uffAbIdE_cNkAW3v18x5gd7INq76veG9gC7lhv2vRO1Ry_gf0YbkBz1LHSZK-oSzypEI_K51Htcg53sJVqw0O7ARkwt35TM8oLKXkb0AQHy-75IkwemNGL6tlNWg68qe8OR5bYBDYqOE41j7nXkkqCoMFREZUodTA1IQSXjX1cwkJpaqqYGD9tWykeOMG-LYbv9w1RlbnHvmHmsNM2v_49X6navbTg-ZTKrSogkLdzo7L8EUQtM3z8s_ecYJ4bgyR0ZEdrJjVXePeU5R8ZVWf5FVmlS76128tVfoP3-LYaWK1BWiaF6lMCzycU9KBLgMebXTBI4jFkoJLUyZXS_qiuksVRiI8EGOw",
+        "height": 1920,
+        "width": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105977243065007600145\">Naveen Murthy</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPP5+C5 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPP5+C5"
+    },
+    "international_phone_number": "+91 1860 500 5555",
+    "reference": "ChIJR5nEApsRrjsR86hNOwcdXwA",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJhepEEwsRrjsRg2BkZ8zRxt0",
+    "name": "Van Heusen",
+    "business_status": "CLOSED_TEMPORARILY",
+    "vicinity": "F-11, First Floor , V R Mall Plot No.11B , Survey No 40/9 Hubli Hale Devasandra, Krishnarajapuram, Bengaluru",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 3.6,
+    "user_ratings_total": 5,
+    "location": {
+      "lat": 12.9854521,
+      "lng": 77.70815379999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9867866302915,
+        "lng": 77.7094583302915
+      },
+      "southwest": {
+        "lat": 12.9840886697085,
+        "lng": 77.70676036970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "permanently_closed": true,
+    "opening_hours": null,
+    "photos": [
+      {
+        "photo_reference": "AWn5SU6RcOKhdTyJgzG9FKiuUBbR66PbgByKZwjHu00J7lmHU3m3a5Z-8ZwXs-SaHZcTOI8f6C9_pO_NEFvSvkPN2fCWbDKpES6DS7ZUUPGmPB_SGznw69X6jHPGfWFPn5AyLt9qDugZOMee2s_uuYTXf18kazfsv2l4rdy2oVF0plPlts-xeoodI5FD17ww5TXrweeKDRhMykHEDcromdTs-oSGbLLPhfiTDarukdEEfXGBxq46MI4MBumwdXLxEbYAQzVOL6tW1NGMN_1csF9wvlq_zMINtIq1GCOWeaAhUc8sZSSihQs4NReTDoA0CHgwXbXBu7xZaBEPqeaWxd9dQe-9XYyMumgXRFBI4FjD-o8D2nxZoTLtw8ek2HgyOJ79DDRn3jnNgx3yv0iP77F5m-lf8oCsbZdFPIteDfQnwdGht-Y3uY18v8EQJnLBBFF_pWyN_VX7ZYR4Yu4md1a30wkv77YbGxMUesCtPexqjP2qpMN6tcY0AAzY0zVWf4tBp7BIp1ZYyZ9VuQEo6aZa_3kzchFLZI1mWTmQrisH9LNaSBKYmi7wHsisEFt4p086qRv-rKpqknZ7RhJDn0yZj5wjJ6l75mmug7CIUArBPYLtyUgsxre7l5O64YCtyIZkdIhZfriM",
+        "height": 2368,
+        "width": 4208,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104712061577161858722\">Casual Traveller</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPP5+57 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPP5+57"
+    },
+    "international_phone_number": "+91 70226 36101",
+    "reference": "ChIJhepEEwsRrjsRg2BkZ8zRxt0",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJWVh24JoRrjsRVdXpfszAcuk",
+    "name": "Startrek logistics Pvt Ltd",
+    "business_status": "OPERATIONAL",
+    "vicinity": "32/2, Chammys Lake Front, Garduachargpalaya, Mahadevpura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3,
+    "user_ratings_total": 2,
+    "location": {
+      "lat": 12.9854192,
+      "lng": 77.7081556
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9867551302915,
+        "lng": 77.7094643802915
+      },
+      "southwest": {
+        "lat": 12.9840571697085,
+        "lng": 77.70676641970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU69ugoh5q7z1s6DhAP69En82di_a7J4uXxZoStUrfRbfflaol5hX5h3kXdLqhUZBAAMT2NJNvsJK68GybDVYQXsejpjYb5-W6M6E1Ek_YrtdnTIs9aeHT8B4QkDR3_IH7QnGT77-JFUJPA3CajET5bcN4Ihz99ebTITnpZqCrpVoimJh4BkdKTrGmYnVBdII8sO9Te3jgzPVK-50TgYU96GtQQsoqAF11-scg_qRQDyPk9ynjymcHRE4dZoKqXgPZoiwcctq0itor38Hynw7bmuo05fEvaKSOvNqWaQhIi04WIsxTvuT0cBrHpEe2I_XcnoDvvcJrY",
+        "height": 1152,
+        "width": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115996674153435804849\">Startrek logistics Pvt Ltd</a>"
+        ]
+      }
+    ],
+    "plus_code": null,
+    "international_phone_number": "+91 1860 420 1414",
+    "reference": "ChIJWVh24JoRrjsRVdXpfszAcuk",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJvXl1T5sRrjsRd2xNGbO0XRc",
+    "name": "Ductmaster India Pvt. Ltd.",
+    "business_status": "CLOSED_TEMPORARILY",
+    "vicinity": "Brigade Metropolis, 76, Ashraya Layout, Garudachar Palya, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": null,
+    "user_ratings_total": null,
+    "location": {
+      "lat": 12.983189,
+      "lng": 77.707291
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9843109802915,
+        "lng": 77.70884238029151
+      },
+      "southwest": {
+        "lat": 12.9816130197085,
+        "lng": 77.7061444197085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": true,
+    "opening_hours": null,
+    "photos": [],
+    "plus_code": {
+      "compound_code": "XPM4+7W Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPM4+7W"
+    },
+    "international_phone_number": "+91 80 4116 3097",
+    "reference": "ChIJvXl1T5sRrjsRd2xNGbO0XRc",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJ144J4ZoRrjsR0eT2yQSJVrI",
+    "name": "Printo Whitefield",
+    "business_status": "OPERATIONAL",
+    "vicinity": "behind Citi Bank ATM, No. 30A, Hoodi Main Road, Doddanakundi Industrial Area 2, Whitefield, Bengaluru",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "user_ratings_total": 949,
+    "location": {
+      "lat": 12.9857688,
+      "lng": 77.70821769999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9871331802915,
+        "lng": 77.7096384302915
+      },
+      "southwest": {
+        "lat": 12.9844352197085,
+        "lng": 77.7069404697085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU4W05GiUQn0p16e_NHbSOZHcKoK42Q3prrHDpN3vPxivcGxZRMuZTLod789fdTUDfw1eWF6P8ObeJ7BL27K5cmThhSvt95HxhPbWKwCU05fWPppbG33h5w2CPf4KY5cmOsH2Q-cNgEGcEhemRO2BngzfH4VUqVcR-QWKG7EfxNDI9VifR2jzOHp40ppdX7vnpPF-qVBoXE78bvV_vZvljG1JbpxNgD8nvjf96pNRkFtRfYh5Al262EHJVKdCRc90ad9Hb9Jn3sGfqkajQTfcY_b-Rf3bXAS1AjintyRGXxsPnc2DWlwivLFI--Z5yllVgwbbxFCUT58VCJUePSPnXxt-j8706BL2cZBGLSg4cSQNMM1dcmKx7uQ0sCgwHi5Wme0HKDhAatdNCurqPnHkwbaZ_tLgARBHOMkmjGHl7HH9Jv-lhtRKc0Ej-OaVOeAwacrv5fE4uTHwJH-ArXCgUFqimVbq5fX2CDvk2AUc7zr_rj38uLZt8Clvacgz4HRtb9vCpgBSsSipNQrEet4SmyE9N6iO-Ax62_dRu61nbbIuNNhZUwQWlmAOli59uISotStXSwdvNAbEy9zJFE1ojoco_Am70bqN6VF3clZBsgidgw1OxR5gkO3pCnaOcP_JWx6woaEJ5NuHAhenfpcvubOyI0",
+        "height": 4032,
+        "width": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117150977094970056619\">Siddharth Sharma</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPP5+87 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPP5+87"
+    },
+    "international_phone_number": "+91 78999 34263",
+    "reference": "ChIJ144J4ZoRrjsR0eT2yQSJVrI",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJFc7o45oRrjsRDRTSNA-Y68g",
+    "name": "Core Logistic Company",
+    "business_status": "OPERATIONAL",
+    "vicinity": "18A/19, Hoodi Main Road NCPR Industrial Layout, Doddanakundi Industrial Area 2, Hoodi Main Road, NCPR Industrial Layout, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "user_ratings_total": 10,
+    "location": {
+      "lat": 12.985762,
+      "lng": 77.7082954
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9871047302915,
+        "lng": 77.7096713302915
+      },
+      "southwest": {
+        "lat": 12.9844067697085,
+        "lng": 77.70697336970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU4IgDgip66pFjOUXGSxkPToGNAjOK5fbWwk8Bfzs15SRXEcLMlUwBhANSVqqBgLPJHk8HDGB2-1uCVEa4U4XFhLVorigqqBvQkLZG_GedEcxvftCzERyY7t9eTqzfCK1vtjZ0JqHxUHZ9_fY0EHWCX48jCNgNbT9nfKD_ZsJUKsIs3YltV3oaOAtnHNXTCkSKUxcOAH7JFwTKqpkFj7dzzK8qp4XcOnCBkzlZ1KDq37AtCiMRN6EuI45Pg2XLRepru_i1y1vvwZMKUXg-j_HLwTbyFXfUikxpTnrdD_K4HxemH8AgbL2wMh6FhJip8wgmDQw-4iOak_IkGodFfkW0WTQXd07rxaQ4q-RdMueYkl8nNmHDwOOoVs1cUdWLadswgVg-GztPLWTP-VxOJKQ6QYTncluD7DnsvNut3YCJWPcEnMk8i7UZBoe8M9eypBDxZngPwsJKu709xDT16QfmmaCozxlNaM-1l1WuQrlDeCkm_VqmubylMxCAnNlBkFmmUZA1l4qPisdXiNAbiXLyArAY91LHz4dYVpZ7LX7lsfkl1Mtm_ky8RFV2vxneIFZJ83aUpBGEBmu2ZWVVDAqoUPDZjoFz2IhS57h6sNOg07x-iSyF2KEyyup5GSVVI1X_ipnHRS",
+        "height": 1080,
+        "width": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107937233034164842492\">saravanan karunanithi</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPP5+88 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPP5+88"
+    },
+    "international_phone_number": "+91 80 3295 3810",
+    "reference": "ChIJFc7o45oRrjsRDRTSNA-Y68g",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJTdBR0ZoRrjsREMLkIPaSD9s",
+    "name": "Families Supermarket",
+    "business_status": "OPERATIONAL",
+    "vicinity": "PLOT NO 18, b1-b, Graphite India Main Road, NCPR Industrial Layout, Doddanakundi Industrial Area 2, Hoodi, Bengaluru",
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "rating": 4,
+    "user_ratings_total": 3137,
+    "location": {
+      "lat": 12.9844167,
+      "lng": 77.7084618
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9857799802915,
+        "lng": 77.70975553029149
+      },
+      "southwest": {
+        "lat": 12.9830820197085,
+        "lng": 77.70705756970848
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU7JJDxZTu7WHF0h3gzl_5ZrB3rFsf9oacqrSPQMMywu3LrI-5vEWt4xOIrQ9JUcmQlXh1k4ZRP9YeakosHoG5mq_eO-nEF9XXz81WJUMTYYGANVSUPHYlv-U2e8x3o1X4J0Rkhw55CV3NsYznaSR3ZM9OSbxllxewFjKsKK6WsD9aIpJ3V411P6MAKijSWhxp6H6TqvV5DILMqcpjj4dBXmpvAj85IV_u2Q1rLWlL6RujNW2rVNUuNMKt67gkqO2ULjxdtkH3fX5ntaI0Kb5JIyoaNFkzU6UMaqmwIG2Z4a1QBIUFTbdE0SbjvBDiHjRWeOyHJjF4MayB3Of1Hu4M6SbMLOfwa2vQQwwW-Au8WNGjmmjeChOyWTa2sy9HVJkQiAAj0XUPIWcWxk0VQXejm_Z65E12hqMwNmWhzSLmu9tUdzeUHBG3npZTPQ4yeuT21TdMttpBlywZFU-D4aNOwQTUtCDS0jtQGfH3GoWyQ8ag3J995RXMAD9aAkaMRINArXaNakgBjOzjsNMR4T68MrO_aEFXa7lgPAiii1XmO4OVtWMdbvdVdXf21hoRKSJT9ghIi_wCr5VHFGWVh2W6o8jYNdPwxp009uMK7a6jnDZzVsRXo88vX0EaPc7TpWJHC3OOcd",
+        "height": 1351,
+        "width": 1059,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110904199161737901594\">Sajid</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPM5+Q9 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPM5+Q9"
+    },
+    "international_phone_number": "+91 78290 15555",
+    "reference": "ChIJTdBR0ZoRrjsREMLkIPaSD9s",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJf3blStQQrjsRrpBH_Pq_RQc",
+    "name": "Bray Controls India Pvt. Ltd.",
+    "business_status": "OPERATIONAL",
+    "vicinity": "2nd Floor, Rathi Legacy, 19/A, Seetharampalya - Hoodi Road, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "user_ratings_total": 11,
+    "location": {
+      "lat": 12.9860265,
+      "lng": 77.70878280000001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9874084302915,
+        "lng": 77.7100523302915
+      },
+      "southwest": {
+        "lat": 12.9847104697085,
+        "lng": 77.7073543697085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU4epgM3rI5Fl1O_WVWV_F2hoZSgL92Uo4JX6rPMDmSkAkN5J_7Umw3aDO5zwZY03VLUMqz96uvBRYpAY5zP6Qcg42c-XH51z3lDTpOZE66TkyT-9wZnNAXvEGTE-n5Ht5DgVCn_3Sg2d-yUq8RbdKLsUzAy9B4vqXFRlJ1osY57gHjzaheq1RlosTNB3YM_0bzwsJmtEyP4xKLhv_WSPcCcV5Bk_x3fxylYqciKyU76QleMIUlGkjLOlk1R3kEhu_i6E5Df1G_xnFKFW9ZBKG2V2qipMqG6UdKCo3sKNxqq3y3E_GbQ3-kPPwG4nE-T8rIrK5eBzTtyIrHD9_RdYP7as9KoRapNPtdu6nhYrZVE4VU9bTCIg6ahsG98IaYqreFFtGdv0SdkiI4vIhytt4BEfYRrHsWrfh5G6EiYvefnRIWxLmU_XE-iXXblUL6kJp90_My0ENgeITv2RN82OyHELuB9skzfU1unJajLjmWmr7rRklH2C-TXaod9j-veQvkeinLsGYz1ZhEXr8eUaXDiR_nw4vG0ygFOBus4e1SifNQh8uAcUwnsq5UYWS8H6STa6j5chCMghH9xuMi_nYf3j0sauxZuESEoY9NlY9L6btgbLfRLS4cGI9TlhJuSdSOpBo0tt0Pui9BkXyPanw",
+        "height": 1091,
+        "width": 898,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117900079256637893621\">Mathew Varghese</a>"
+        ]
+      }
+    ],
+    "plus_code": null,
+    "international_phone_number": null,
+    "reference": "ChIJf3blStQQrjsRrpBH_Pq_RQc",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJFxpVJIURrjsR0xU6Wp-UWdA",
+    "name": "Swagelok Bangalore",
+    "business_status": "OPERATIONAL",
+    "vicinity": "Graphite India Main Road, Doddanakundi Industrial Area 2, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.7,
+    "user_ratings_total": 65,
+    "location": {
+      "lat": 12.9831095,
+      "lng": 77.7085776
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9844738302915,
+        "lng": 77.7099466302915
+      },
+      "southwest": {
+        "lat": 12.9817758697085,
+        "lng": 77.70724866970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU40OW_VzjkX1j5IAYkrBkBaIG5wsLeevM-lIR_ZS5o5tPWnx9Ae3E-gegTh9rBL4pujWO4ermZdYmFGK5qz6PZhiQGCiatVQZeHkRU3mXELP_CZ4NDqNWiDJUzlgUVM2rs8AB1r55ICRapicf0hg1H-WOSLQSpBylNNYHSTqubcjR8dBx2uOmKsKrClmvUNQ9uc9wrzSBjm1nlvtrvA0bV8dI3ldcnAJ02c-INhDNFsQv5eNrX-NDYT4T4KxL_Mc98EynYdv8CoSt7AuobOFi09kJr9taQe4zbR8pHq8Sc0vQ9bWOyxYa9uxDIGu_HMm6mnm2QRyf0",
+        "height": 4480,
+        "width": 6720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113610355191130839507\">Swagelok Bangalore</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPM5+6C Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPM5+6C"
+    },
+    "international_phone_number": "+91 80 4266 9100",
+    "reference": "ChIJFxpVJIURrjsR0xU6Wp-UWdA",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJ79E5IIURrjsRZG8ZnqPwnJU",
+    "name": "Shell",
+    "business_status": "OPERATIONAL",
+    "vicinity": "Graphite India Main Road, ITPL Main Road, Vill, Hoodi, Bengaluru",
+    "types": [
+      "gas_station",
+      "convenience_store",
+      "cafe",
+      "car_repair",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "user_ratings_total": 2536,
+    "location": {
+      "lat": 12.982598,
+      "lng": 77.70814
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9839516302915,
+        "lng": 77.70956988029151
+      },
+      "southwest": {
+        "lat": 12.9812536697085,
+        "lng": 77.7068719197085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU5QvqIwb0NAHZPpw8STJXRYso2jCkMXflkYY4TIkW4_TZxmIkqrSslOnSClg5p4EBDKuiM-U1Rwqv37_Z4XKgRAXk4apJVYBQ2Z1uNSCLXDc5zhy5Jl7405dE1pSYeLjT2zGAw5X3bHaqsM8LJDQR9JR10rKiC86EY5rFCuh_nasw5tvnBaZ22N-wQ52KFZ1ixriQcJazJg6aAr7LD3MMOvDOUnGluU7cqm5ENeL-xm7-kzazIu8zDbFisv2l7zjmGCbDazjUmuYoqPOtbVaoWq0ABhAA4zs2YUVOlXYUwJpK37eENY5lCQJC9WfZzdhyPL-IUE50U",
+        "height": 1193,
+        "width": 2119,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101151151970831447166\">Shell</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPM5+27 Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPM5+27"
+    },
+    "international_phone_number": "+91 95536 82255",
+    "reference": "ChIJ79E5IIURrjsRZG8ZnqPwnJU",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJdfp1e0gRrjsRm9Ky8L7ana4",
+    "name": "Procain Consulting & Services Pvt Ltd.",
+    "business_status": "OPERATIONAL",
+    "vicinity": "First Floor, Rathi Legacy- Rohan Tech Park, Seetharampalya - Hoodi Road, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.6,
+    "user_ratings_total": 74,
+    "location": {
+      "lat": 12.9857455,
+      "lng": 77.70918569999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9870261302915,
+        "lng": 77.7105399302915
+      },
+      "southwest": {
+        "lat": 12.9843281697085,
+        "lng": 77.7078419697085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU7tNnO3GJxozQ01S91PMODM-iP4OR6Ojo0ui2muFFAFhvDiS1iFtN-4n_xEmZNkQ48Qw5OQcKLSAca8Ep3buo6BN6NTFyuf_RNJaLCN5tXfPm5NCdmWTTTUWNcPlIkYL5DFoKBEx4xgm9gcuxqXogqhBcyS-KzgaqRHm5zPC8PY3RjHhh8Vvq18YkTnb0Jav9yeoEdAVCucll2-pitVLvPkbfPikeY9o-DJM2aZMvuJIYbGueW3SKeb7k-ud2wCT93pqVq5t4fDEn568iC1KBEcphqYEKzVbkPtBlij1XOjwW05Iy9XC1ZoDfi-fisyV7FVnbNONhE",
+        "height": 1333,
+        "width": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102677708442376116592\">Procain Consulting &amp; Services Pvt Ltd.</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPP5+7M Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPP5+7M"
+    },
+    "international_phone_number": "+91 91488 14400",
+    "reference": "ChIJdfp1e0gRrjsRm9Ky8L7ana4",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJuTCzWZoRrjsR-G1CWHjRZDw",
+    "name": "Peachy Pumpkin",
+    "business_status": "CLOSED_TEMPORARILY",
+    "vicinity": "1st Floor, above Spectrum Clinic, 29, Graphite India Main Road, Doddanakundi Industrial Area 2, Hoodi, Mahadevapura, Bengaluru",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 5,
+    "user_ratings_total": 6,
+    "location": {
+      "lat": 12.9870397,
+      "lng": 77.708783
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9883866802915,
+        "lng": 77.7100994302915
+      },
+      "southwest": {
+        "lat": 12.9856887197085,
+        "lng": 77.70740146970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "permanently_closed": true,
+    "opening_hours": null,
+    "photos": [
+      {
+        "photo_reference": "AWn5SU5-MQZqiw17M6qp7jtVwU7AimTkpGyhTTBKWTkg4Q4FoiLb5sHIxvfPdA7mRYSTQ2TMH50gpWxVuZSvb0EPKhptp1RVz0BDt4KYf5xRdP1UE2_No679A0DIyQ8eji7huag5wkJKEuLcTsomC-K2HWlzgEeYt_KtOHswi8IClxIDRjOZmneAGlrd4P6fvv6bLzvOwRvki8N2lS4g5IhhQav2OiCY7vg-bb6BPv_Q6kZv6BN1TCs9L-ghT0PvolAOqlTxa7QnK35qeaWMXHCLlYS9XeecEMVTb-iFKQIPO3zKBA66WowrKbjvggF-kAv_-0GtLmPvzO0",
+        "height": 1200,
+        "width": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118293223709102951627\">Peachy Pumpkin</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPP5+RG Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPP5+RG"
+    },
+    "international_phone_number": "+91 98456 55791",
+    "reference": "ChIJuTCzWZoRrjsR-G1CWHjRZDw",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJ86PtGIURrjsRDcXBjbUQwF8",
+    "name": "Sri Laxmi Ranganatha Swamy Transport",
+    "business_status": "OPERATIONAL",
+    "vicinity": "No.5, 1st Floor Jaya Lakshmi Complex Door, Hoodi Main Road, Whitefield, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4.3,
+    "user_ratings_total": 3,
+    "location": {
+      "lat": 12.9824824,
+      "lng": 77.7085944
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9838013802915,
+        "lng": 77.7098670802915
+      },
+      "southwest": {
+        "lat": 12.98110341970849,
+        "lng": 77.7071691197085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [],
+    "plus_code": {
+      "compound_code": "XPJ5+XC Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPJ5+XC"
+    },
+    "international_phone_number": "+91 80 2841 1855",
+    "reference": "ChIJ86PtGIURrjsRDcXBjbUQwF8",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJ-ffqapoRrjsR-MAH3cbXakQ",
+    "name": "Prosoc Engineering Solutions",
+    "business_status": "OPERATIONAL",
+    "vicinity": "beside indian oil petrol pump, 29, Graphite India Main Road, Doddanakundi Industrial Area 2, Industrial Area, Brookefield, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.9,
+    "user_ratings_total": 9,
+    "location": {
+      "lat": 12.9873558,
+      "lng": 77.70897570000001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9886778302915,
+        "lng": 77.71036743029151
+      },
+      "southwest": {
+        "lat": 12.9859798697085,
+        "lng": 77.7076694697085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU4y-HV2t6EEDepYw6xoJN-ZGvLDhjemH54nKJlQXsvWA3063-8e9JETQwzYWIPxs9rpq1aB9IPyxcBpT0fCXpQaERMBFDE49x5ZvJ829U5-hwxah58uMz1lWP3MhvRwcuJiCS47DS391jkIHlADlomr4i4pTW0cy-Z0nHhpoEMtt_TITMd5or_o5QAm1VwnYgy1-Zet2s_Li8-FZNIfEvor4rtYlouidyQq2RHa3cxtovoTS_mB0arnYoq1Dh5lZY0d1Seu4zvpzAW1k-8UnROAmE0W-LiSDhDTDf95lb5xwr1h5UJpVh2i6J5wQHI0lD0SqufM8jvJx_N0VURYtQhqz_RAxg43kFV5pJvoeHDrUGPIHHvGH_NYlyO8gEMTN3M54I0YM-t9t_K4Ssct02YY2M_cPTggQ4TJZqqbjkDdL0LthTu9iHhPvwV4DJpLR4RUV38F0aKHv-2U1VeX8bNRP00AeSNhzhkDOqoHXQr7SQTGCqDXTmHqlFXXXvjhpadEb7IILPYaDOZty9XPtOT1LRUspr5bMtEjag8LiHkjsfo_jntslW_J3sWWRCwQ-6H-y3VrcIt0O9yWajKK1qoRBOgKIJ4jNUgxDTsdmeOsuwOFDGnRTUPcskOGsRQiM5VmkQ",
+        "height": 1080,
+        "width": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106139417905697485058\">Madhav Bv</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPP5+WH Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPP5+WH"
+    },
+    "international_phone_number": "+91 80 4116 3307",
+    "reference": "ChIJ-ffqapoRrjsR-MAH3cbXakQ",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJq5RMQYURrjsRXVUJGZIDkk0",
+    "name": "Lithium Urban Technologies Pvt Ltd, Bangalore",
+    "business_status": "OPERATIONAL",
+    "vicinity": "158, 1st Floor, Seetharampalya - Hoodi Road, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "rating": 4,
+    "user_ratings_total": 257,
+    "location": {
+      "lat": 12.9830342,
+      "lng": 77.7090461
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9843453302915,
+        "lng": 77.7104024802915
+      },
+      "southwest": {
+        "lat": 12.9816473697085,
+        "lng": 77.7077045197085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU6S626tTmh1Epbn8ob-1nuJgPY4mqXS5IlJr9R6YJnpna4ou9uEolsoUTD4428mRAgqrwPFF3Kcs8F0mL9SRtdsr_RirYz3NotQpU7jbNuMbhx_ev0lH6JeHQRKs_j3QdjAwdafgOm4_leCcc42NAuwEY4ddMzlJRnA0sCjcWJ28eNYGJNnHmdvpMC_JUgraI4gmF0p_PH2cM4nolJTv04B0EkVxYFUDrhwnlNZ3I41msjqu_19oIVxY-gcNmTwagsjpGjW-wNGE0QLWGYMiN6ckwPQUlI7qVCTqUa3GDdcC45L8YX7WlHguA36J634hC4V38sm--J43j7V3HQzUP0r7H3Iqlv-0HAXPZX52iJ_hVFp_JjSV5JmGodijGVdc9Oo7MaDkOCj35SG-lNprjqsbVx3b9T0bTL2tPo40vye_MNaYVjH5rIZq5EjCj1o0P9PjSRwdYZY8vccjwJfwXrduw-8NVHeNzz_D2Rls3Fm13clk6iaj1pw8Oa1za7jH28nD-WVggSBklHwWrK6KJbqE6_tuv2oKWRp8K_pakSXS8HuMmYspZzeDJtz9fscSTyEIUD4rCxQwurTMxA5llvPIzG0OTcjX4GBuQoHB-y_j4sOCl3L3eF0gzaC0Axc",
+        "height": 2448,
+        "width": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110990222908412857897\">Raghav Kadam</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPM5+6J Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPM5+6J"
+    },
+    "international_phone_number": "+91 80 6900 0856",
+    "reference": "ChIJq5RMQYURrjsRXVUJGZIDkk0",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJj3GVDXwRrjsRQClNuAp7IJw",
+    "name": "Ralecon",
+    "business_status": "OPERATIONAL",
+    "vicinity": "2nd Floor - Workhub by Novel Office, Doddanekundi Area, Graphite India Main Road, Whitefield, KEB Colony, Industrial Area, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.2,
+    "user_ratings_total": 79,
+    "location": {
+      "lat": 12.9889227,
+      "lng": 77.7072524
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9902409302915,
+        "lng": 77.7084841802915
+      },
+      "southwest": {
+        "lat": 12.9875429697085,
+        "lng": 77.7057862197085
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU6WxwBm3108Zj5ijekPaCPhgIqxxsKyEociogf5Ol2tj8GKGbX9ET7EC_lxABOkmZkIsA0lBRK7PQHHFuH_ypBwFGRXc8fdRELsMvG8wapTDrrybyBJBcBRmksjHhMVlUHQlpu7NYfgbkdtFW39LX4rhNvrT3acm4EvaQjYSH_f65Ojm6o2hlsIpFweoYJMzj64chG7jMlurXHdnJK62h4pJm9UcHZp7aFEB75mwsjG2_cYD5VU58Gwq2MZatrFAA01DNd4G3VMd6ad_Gz-E_0Dz6nvfM_SiMhXwSi3Ba_ILff_uuZ3cPizJ2hpihvIzTAAlLm_STc",
+        "height": 327,
+        "width": 472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111231965281060592102\">Ralecon</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPQ4+HW Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPQ4+HW"
+    },
+    "international_phone_number": "+91 81234 14479",
+    "reference": "ChIJj3GVDXwRrjsRQClNuAp7IJw",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJK9cPC4YRrjsRuqg9v944C1Q",
+    "name": "Eurofins Pharma Services India Pvt. Ltd.",
+    "business_status": "OPERATIONAL",
+    "vicinity": "540/1, Graphite India Main Road, NCPR Industrial Layout, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru",
+    "types": [
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 5,
+    "user_ratings_total": 4,
+    "location": {
+      "lat": 12.9844768,
+      "lng": 77.7096992
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9858758802915,
+        "lng": 77.7109970302915
+      },
+      "southwest": {
+        "lat": 12.9831779197085,
+        "lng": 77.70829906970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU4CcOgyudniZgoWL-xyoXA8zUc6mvGfJHG4t8lI6ydnRNE3PdFaoj5tcyVz0Z4uM_wvLuIjscxiVozbA7lViG7Tl8F0GyZMvuyUtWv90raSn35PUYEB1pq6sdW3V58sNRQhtaMPuLYbn63Qh8bjuBUkSTNp8GhiAgjQU7QpNGxXkUusN0vKQC-ygSaX0jIkFZf__bCie4XsqdiqzOvS0GazTSqScvW3N-jj9BCqxWFF09HyzP_JFNbFDrzqgaxTSb6LFxjBq6VeXoxvVA9KTJGXF-wBHJi2WsBToTjdCzyLwzlMkIZi3XyK8YYzG67EbQpP9L1q3Pso8DhiZ78UnZRDMVlX82ZbigdKL-aQHj2m55y10AOQ6URGSLNyodbYggBBvTrepWWqZs-zdhskKfIC3NGgGLh7qMZvR4IMr5Lgno_20p9-AMgoQfsNuzwi4VbtdPtzg6XfdodLJ6ZgDPOmGCXzXeNY2Ip7FwxCOrzGnXq64jfY2LUTzputbyNd9InSkX8k7Zlep1sc4P_SahG_L5Mp1Mwod-8vZwvyb2DEr_ZsF72nzptn3fmhQht1RmWzdTeq1bljY6O3eHLUJw2T6mwtE5tyRuILxUDrHTpCydUARNx7ANj0Pf0vHdyZl7iQhA",
+        "height": 4032,
+        "width": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106214569378845335300\">priyanka Ugalatad</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPM5+QV Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPM5+QV"
+    },
+    "international_phone_number": "+91 80 3070 6687",
+    "reference": "ChIJK9cPC4YRrjsRuqg9v944C1Q",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJawKNtpoRrjsRmS-4-avfV24",
+    "name": "Eurofins Analytical Services India Private Limited",
+    "business_status": "OPERATIONAL",
+    "vicinity": "540/1, Graphite India Main Road, NCPR Industrial Layout, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 3.9,
+    "user_ratings_total": 464,
+    "location": {
+      "lat": 12.9844768,
+      "lng": 77.7096992
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9859933802915,
+        "lng": 77.71118923029151
+      },
+      "southwest": {
+        "lat": 12.9832954197085,
+        "lng": 77.70849126970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU42u2pB9mdK7mOns23Ik-iTUwv1FKd_-N1MRk7yPoBJGsAsTcpjMdFs2J78Vl33lyZGKis2LMYDexF55k_n1Ja-rkqsRu1J2XTjssEjrZf6rR9WHCTSJuGhbCH5jgcxlTya9GN0YSp_4UBeGpGkPkFzxTwedrG9Xg_6jXkz4JFUOo_khmURo58UzR1ILzAPuF_PRSls4D4G7tRQYwkUd6LRYhRYOzt04rujSA6D399UrSUs1IVghoNiWwxsef5UBL0CE0nKATlVfmgMVCpoG1FhVIcK9M7kAjXVZFspH8Slhk7YnHYRSwvOvRj98v2ss_eOzRm3eRo",
+        "height": 430,
+        "width": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111058705053403017679\">Eurofins Clinical Diagnostics</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPM5+QV Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPM5+QV"
+    },
+    "international_phone_number": "+91 80 3098 2500",
+    "reference": "ChIJawKNtpoRrjsRmS-4-avfV24",
+    "scope": "GOOGLE"
+  },
+  {
+    "place_id": "ChIJqXMblTkXrjsR2eDz-GYLjIo",
+    "name": "Ideapoke Technologies Pvt. Ltd.",
+    "business_status": "OPERATIONAL",
+    "vicinity": "Ground Floor, Workhub by Novel Office Doddanekundi, 2, Whitefield Main Road, Industrial Area, Mahadevapura, Bengaluru",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "rating": 4.1,
+    "user_ratings_total": 50,
+    "location": {
+      "lat": 12.9889016,
+      "lng": 77.70743019999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 12.9901454302915,
+        "lng": 77.70881228029151
+      },
+      "southwest": {
+        "lat": 12.9874474697085,
+        "lng": 77.70611431970849
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "permanently_closed": false,
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "photo_reference": "AWn5SU5VuM9QqnJFra2XJwBMdjmyV0iO__D1W9SM0ymTkLYhi5s6BHDqKkFMBpb8Z2j4CsZ81smm_c6-nsAcxVrFr7K-kV4DX-CCPHCCiDgszEhDJ_nEX0vG6B871fE6Sn-y_yjHP0GFUgxpQtVZ9hv5Af7V4WHDtF5UCb6aQepNv4rXcNlPjfttHR88-TktcYGtlXQEgYBFJszFAwoeh8dPL9o0rPpjrKcfd-NahF1EYG1-EVCv_M689TLi8ij37Li4qEcUXpI8OX57yw0zIhxCRI-xQiwmW38fw0S2k9zsDhRQ52oOyAW7jdKh5Q3dbS60KjWe9VKb6HtlOUKeY7WSdC4JpJsdKbfpdip-u3QkE3zlWPaDFWcKdV19z7c9X-wvnXjZ3vE0boet-JTk3_e_9Uk6Mg2Vjxz9IuQ-0MQfQC7whP9XRI4XQvMTboqpBoVwrthItVUrudA7jAPlaAC6CsiGUmB35QO0JJWMHW6iJVnNoWyp6pBbIb4RtfutvbYZ06edg8a6Hk2naokUXu5sU8LKcRsdIDhyLLtAYAZIASyljeDtC9HrA3x6ruqFJ01cQXIAbk_-KKGEcNCadnrK_tt64HBuKYrlJT2MhK5yU-kO5rEJq5N2DRCR5NVJfrxv",
+        "height": 2448,
+        "width": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107877602079293283869\">Gopikrishnan D</a>"
+        ]
+      }
+    ],
+    "plus_code": {
+      "compound_code": "XPQ4+HX Bengaluru, Karnataka, India",
+      "global_code": "7J4VXPQ4+HX"
+    },
+    "international_phone_number": "+91 90197 75617",
+    "reference": "ChIJqXMblTkXrjsR2eDz-GYLjIo",
+    "scope": "GOOGLE"
+  }
+]
