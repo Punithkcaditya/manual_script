@@ -102,7 +102,7 @@ def get_campaign_visits_data(conn):
                 ON ub.tenant_phone_number IS NOT NULL
                 AND sw.phone = CONCAT('+91', ub.tenant_phone_number)
 
-            WHERE cv.timestamp > TIMESTAMPTZ '2025-12-09 18:30:00+00'
+            WHERE cv.timestamp > TIMESTAMPTZ '2025-12-19 18:30:00+00'
 
             ORDER BY cv.ip_address, cv.timestamp DESC
         )
